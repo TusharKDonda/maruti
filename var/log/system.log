@@ -1,0 +1,10 @@
+2016-01-05T11:47:58+00:00 ERR (3): Notice: Undefined variable: block  in C:\xampp\htdocs\maruti\app\code\core\Mage\Core\Model\Email\Template\Filter.php on line 187
+2016-01-05T11:47:58+00:00 ERR (3): Notice: Undefined variable: block  in C:\xampp\htdocs\maruti\app\code\core\Mage\Core\Model\Email\Template\Filter.php on line 197
+2016-01-06T03:28:50+00:00 ERR (3): Notice: Undefined variable: block  in C:\xampp\htdocs\maruti\app\code\core\Mage\Core\Model\Email\Template\Filter.php on line 187
+2016-01-06T03:28:50+00:00 ERR (3): Notice: Undefined variable: block  in C:\xampp\htdocs\maruti\app\code\core\Mage\Core\Model\Email\Template\Filter.php on line 197
+2016-01-06T03:28:52+00:00 ERR (3): Notice: Undefined variable: block  in C:\xampp\htdocs\maruti\app\code\core\Mage\Core\Model\Email\Template\Filter.php on line 187
+2016-01-06T03:28:52+00:00 ERR (3): Notice: Undefined variable: block  in C:\xampp\htdocs\maruti\app\code\core\Mage\Core\Model\Email\Template\Filter.php on line 197
+2016-01-07T14:04:53+00:00 ERR (3): Notice: Undefined variable: block  in C:\xampp\htdocs\maruti\app\code\core\Mage\Core\Model\Email\Template\Filter.php on line 187
+2016-01-07T14:04:53+00:00 ERR (3): Notice: Undefined variable: block  in C:\xampp\htdocs\maruti\app\code\core\Mage\Core\Model\Email\Template\Filter.php on line 197
+2016-01-07T14:04:57+00:00 ERR (3): Notice: Undefined variable: block  in C:\xampp\htdocs\maruti\app\code\core\Mage\Core\Model\Email\Template\Filter.php on line 187
+2016-01-07T14:04:57+00:00 ERR (3): Notice: Undefined variable: block  in C:\xampp\htdocs\maruti\app\code\core\Mage\Core\Model\Email\Template\Filter.php on line 197

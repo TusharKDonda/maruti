@@ -1,0 +1,11 @@
+<div class="block aboutus">
+	<div class="block-title"><strong> <span> About us </span> </strong> </div>
+	<div class="block-content">
+		<p class="des_contact_info">Wheir you're shopping for clothing for work, everyday casual wear, a special</p>
+		<ul>
+			<li>My Company, 42 avenue des Champs Elys es 75000 Paris France</li>
+			<li>Call us now: <span>0123-456-789</span></li>
+			<li>Email: <span><a href="mailto:sales@yourcompany.com">sales@yourcompany.com</a></span></li>
+		</ul>
+	</div>
+</div>

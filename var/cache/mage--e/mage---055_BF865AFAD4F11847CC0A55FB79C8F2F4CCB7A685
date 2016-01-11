@@ -1,0 +1,89 @@
+<div id="ves-brandcarousel-791305309356" class="block ves-brandcarousel">
+		<div class="block-title">
+		<strong>
+			<span>
+				Our Brands			</span>
+		</strong>
+			</div>
+		<div class="block-content">
+		
+		<div id="vesbrandowlcarousel-791305309356" class="owl-carousel vescarousel">
+
+								
+			<div class="item first">
+				<div class="item-inner">
+																				<a href="http://localhost/maruti/index.php/ves-brand/brand-venustheme-1.html"><img src="http://localhost/maruti/media/resized/120x36/vesbrand/2-manufacturers.png" alt="Brand venustheme 1" class="lazyOwl img-responsive" /></a>
+									</div>
+			</div>
+					
+			<div class="item ">
+				<div class="item-inner">
+																				<a href="http://localhost/maruti/index.php/ves-brand/brand-venustheme-2.html"><img src="http://localhost/maruti/media/resized/120x36/vesbrand/3-manufacturers.png" alt="Brand venustheme 2" class="lazyOwl img-responsive" /></a>
+									</div>
+			</div>
+					
+			<div class="item ">
+				<div class="item-inner">
+																				<a href="http://localhost/maruti/index.php/ves-brand/brand-venustheme-3.html"><img src="http://localhost/maruti/media/resized/120x36/vesbrand/4-manufacturers.png" alt="Brand venustheme 3" class="lazyOwl img-responsive" /></a>
+									</div>
+			</div>
+					
+			<div class="item ">
+				<div class="item-inner">
+																				<a href="http://localhost/maruti/index.php/ves-brand/brand-venustheme-4.html"><img src="http://localhost/maruti/media/resized/120x36/vesbrand/5-manufacturers.png" alt="Brand venustheme 4" class="lazyOwl img-responsive" /></a>
+									</div>
+			</div>
+					
+			<div class="item ">
+				<div class="item-inner">
+																				<a href="http://localhost/maruti/index.php/ves-brand/brand-venustheme-5.html"><img src="http://localhost/maruti/media/resized/120x36/vesbrand/6-manufacturers.png" alt="Brand venustheme 5" class="lazyOwl img-responsive" /></a>
+									</div>
+			</div>
+					
+			<div class="item last">
+				<div class="item-inner">
+																				<a href="http://localhost/maruti/index.php/ves-brand/brand-venustheme-6.html"><img src="http://localhost/maruti/media/resized/120x36/vesbrand/7-manufacturers.png" alt="Brand venustheme 6" class="lazyOwl img-responsive" /></a>
+									</div>
+			</div>
+					
+			<div class="item first">
+				<div class="item-inner">
+																				<a href="http://localhost/maruti/index.php/ves-brand/brand-venustheme-7.html"><img src="http://localhost/maruti/media/resized/120x36/vesbrand/8-manufacturers.png" alt="Brand venustheme 7" class="lazyOwl img-responsive" /></a>
+									</div>
+			</div>
+					
+			<div class="item ">
+				<div class="item-inner">
+																				<a href="http://localhost/maruti/index.php/ves-brand/brand-venustheme-8.html"><img src="http://localhost/maruti/media/resized/120x36/vesbrand/3-manufacturers.png" alt="Brand venustheme 8" class="lazyOwl img-responsive" /></a>
+									</div>
+			</div>
+								</div> <!--end vesbrandcarousel -->  
+			</div> <!--end block-content -->
+</div> <!--end ves-brandcarousel -->
+<script type="text/javascript">
+	jQuery(window).load(function() {
+		var owl = jQuery('#vesbrandowlcarousel-791305309356');
+		owl.owlCarousel({
+			autoPlay: false,
+			slideSpeed: 3000,
+			autoplayHoverPause: true,
+							navigationText: ["<span class='fa fa-angle-left'></span>","<span class='fa fa-angle-right'></span>"],
+				slideBy: 1,
+				loop: true,
+				margin: 1,
+				navigation: true,
+				rtl: false,
+				mouseDrag: true,
+				touchDrag: true,
+				autoWidth: false,
+				responsive: true,
+				items: 6,
+            itemsDesktop : [1199,6], //4 items between 1199px and 980px
+            itemsDesktopSmall : [979,4], //3 items betweem 979px and 769px
+            itemsTablet: [768, 3], //2 items between 768px and 641px
+            itemsTabletSmall : [640, 2], //2 items between 641px and 480px
+            itemsMobile : [479, 2], // itemsMobile disabled - inherit from itemsTablet option
+            itemsCustom: false // custom numbers item view on screen
+        });
+});
+</script>

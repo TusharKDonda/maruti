@@ -1,0 +1,39 @@
+<div id='ajax_loader' class="ajaxcartpro_progress hidden"></div>
+<script>
+	function setLocationAjax(url,id){
+		jQuery('body').append("<div id='fancybox-loading'><div></div></div>");
+		url += 'isAjax/1';
+		url = url.replace("checkout/cart","ajax/cart");
+		jQuery('#ajax_loader').show();
+		try {
+			jQuery.ajax( {
+				url : url,
+				dataType : 'json',
+				success : function(data) {
+					jQuery('#ajax_loader').hide();
+					setAjaxData(data,false);
+					jQuery('body #fancybox-loading').remove();
+				}
+			});
+		} catch (e) {
+		}
+	}
+	function showOptions(id){
+		jQuery('#'+id).trigger('click');
+	}
+	function setAjaxData(data,iframe){
+		if(data.status == 'ERROR'){
+			alert(data.message);
+		}else{
+			if(jQuery('#header-cart')){
+				jQuery('#header-cart').html(data.minicartContent);
+			}
+			if(jQuery('.top-minicart .count')){
+				jQuery('.top-minicart .count').html(data.cart['items_qty']);
+			}
+			jQuery.fancybox({ content: data.message });
+		}
+	}
+
+
+</script>

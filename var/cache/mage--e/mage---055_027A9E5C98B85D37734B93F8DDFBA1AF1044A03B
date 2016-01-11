@@ -1,0 +1,14 @@
+<div class="widget-links block">
+	<div class="block-title"><strong> <span> My account</span> </strong></div>
+	<div class="block-content widget-inner">
+		<div class="panel-group">
+			<ul class="nav-links">
+				<li><a href="http://localhost/maruti/index.php/customer/account/">My Account</a></li>
+				<li><a href="http://localhost/maruti/index.php/customer/account/login/">login</a></li>
+				<li><a href="http://localhost/maruti/index.php/checkout/cart/">my cart</a></li>
+				<li><a href="http://localhost/maruti/index.php/wishlist/index/">wishlist</a></li>
+				<li><a href="http://localhost/maruti/index.php/checkout/cart/">checkout</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

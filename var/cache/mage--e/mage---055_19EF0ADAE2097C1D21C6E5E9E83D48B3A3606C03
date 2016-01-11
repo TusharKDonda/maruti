@@ -1,0 +1,14 @@
+<div class="slideshow-container">
+<ul class="slideshow animatedParent">
+<li>
+<div class="iview-caption"><span class="main-text1 animated bounceInDown" data-animated="bounceInDown"> check out this weekend </span> <span class="main-text2 animated bounceInUp" data-animated="bounceInUp"> Big Sale</span> <span class="main-text3 animated bounceInUp" data-animated="bounceInUp"> Lorem ipsum dolor sit amet, consectetur adipisc elit, sed do eiusmod tempor incididunt ut labore consectetur adipisc. </span> <span> <a class="button animated bounceInUp" data-animated="bounceInUp"> Shop now </a> </span></div>
+<a class="animated fadeInUp" href="" data-animated="fadeInUp"> <img alt="An eye for detail - Click to Shop Eye Wear" src="http://localhost/maruti/media/wysiwyg/slideshow/slide1-v6.jpg" /> </a></li>
+<li>
+<div class="iview-caption"><span class="main-text1"> check out this weekend </span> <span class="main-text2"> Big Sale</span> <span class="main-text3"> Lorem ipsum dolor sit amet, consectetur adipisc elit, sed do eiusmod tempor incididunt ut labore consectetur adipisc. </span> <span> <a class="button"> Shop now </a> </span></div>
+<a href=""> <img alt="Style solutions - covet-worthy styles in travel-friendly fabrics - Click to Shop Woman" src="http://localhost/maruti/media/wysiwyg/slideshow/slide2-v6.jpg" /></a></li>
+<li>
+<div class="iview-caption"><span class="main-text1"> check out this weekend </span> <span class="main-text2"> Big Sale</span> <span class="main-text3"> Lorem ipsum dolor sit amet, consectetur adipisc elit, sed do eiusmod tempor incididunt ut labore consectetur adipisc. </span> <span> <a class="button"> Shop now </a> </span></div>
+<a href=""> <img alt="Wing man - hit the runway in stylish separates and casuals - Click to Shop Man" src="http://localhost/maruti/media/wysiwyg/slideshow/slide3-v6.jpg" /></a></li>
+</ul>
+<div class="slideshow-pager">&nbsp;</div>
+<span class="slideshow-prev">&nbsp;</span> <span class="slideshow-next">&nbsp;</span></div>

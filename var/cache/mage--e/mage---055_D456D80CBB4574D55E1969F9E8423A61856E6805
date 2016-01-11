@@ -1,0 +1,2423 @@
+<div>
+<div id="productlist_tabves_productlist_tab_131161452175496" class="widget-productlist-tab easytab-play block  " style="width:100%">
+    
+    <div class="widget-inner block-content tab-side-container easytab"
+    data-animate="true"
+    data-speed="normal"
+    data-tab-active-class="active"
+    data-panel-active-class="selected"
+    data-collapsible="true"
+    data-in-transition="fadeIn"
+    data-out-transition="fadeOut"
+    data-in-easing="linear"
+    data-out-easing="linear">
+
+    <ul class="nav nav-tabs" id="productlisttabves_productlist_tab_131161452175496">
+                        <li class="tab">
+                        <a href="#productlist_tab0289751452175496" class=" category-tab-3" title="Women">Women
+                
+            </a>
+
+        </li>
+                        <li class="tab">
+                        <a href="#productlist_tab1289751452175496" class=" category-tab-4" title="Men">Men
+                
+            </a>
+
+        </li>
+                        <li class="tab">
+                        <a href="#productlist_tab2289751452175496" class=" category-tab-5" title="Kids">Kids
+                
+            </a>
+
+        </li>
+            </ul>
+
+    <div class="panel-container">
+                            <div id="productlist_tab0289751452175496" class="tab-owlproductcarousel-content">
+                                
+                
+                <div class="box-products carousel slide owl-carousel-play" data-ride="owlcarousel">
+                    <div id="owltabsproductcarousel128261452175496"
+                        class="owl-carousel"
+                        data-slide-default="4"
+                        data-slide-desktop="1199,4"
+                        data-slide-desktop-small="979,3"
+                        data-slide-tablet="768, 2"
+                        data-slide-tablet-small="640, 2"
+                        data-slide-mobile="479, 1"
+                        data-slide-custom="false"
+                        data-slide-speed="500"
+                        data-auto="false"
+                        data-lazyload="false"
+                        data-navigation="false"
+                        data-pagination="true">
+
+                                                                                                                                <div class="item product-item products-grid no-margin  equal-height hover-effect single-line-name" >
+
+                                                                                                            <!-- Product Item -->
+                                                    <div class="product-block">
+    <div class="product-wrapp">
+        <div class="image">
+                                    <div class="icon">
+                                    <span class="new-icon"><span>New</span></span>
+                            </div>
+        
+                <div class="product-image">
+            <a href="http://localhost/maruti/index.php/ut-egestas-ante.html" title="Ut egestas ante ">
+                <img                 src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus104.jpg"
+                alt="Ut egestas ante " />
+            </a>
+                        <a class="hover-image" href="http://localhost/maruti/index.php/ut-egestas-ante.html">
+                                <img src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus105.jpg" width="280" height="423" alt="Ut egestas ante " />
+                                </a>
+                            </div>
+
+                                    <div class="quickview hidden-sm hidden-xs">
+                                <div class="display-onhover quickview-wrapper">
+                                        <a href='http://localhost/maruti/index.php/ajax/quickview/view/id/2/' class='fancybox-play tooltip_container button' data-ftype='iframe' data-hideOnContentClick="true" data-overlayOpacity="true" data-width="60%" data-height="75%" data-scrolling="yes" data-show-close-button="true" data-verlay-opacity="0.8" data-show-overlay="true" id='quickview-fancybox2290031452175496'>
+                                                                        &nbsp;<i class="fa fa-search-plus"></i>&nbsp;<span class="hidden-xs">Quickview</span>                        
+                    </a>
+                                    </div>
+                            </div>
+                    </div>
+
+        <div class="product-info">
+            <div class="actions">
+                                                                                                
+                                                <div class="display-onhover addtocart-wrapper">
+                                                                                                                <button type="button" title="Add to Cart" class="button btn-cart ajx-cart" onclick="setLocationAjax('http://localhost/maruti/index.php/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/product/2/form_key/8PtpZxONQnnDefFC/','2')">&nbsp;<i class="fa  fa-shopping-cart"></i>&nbsp;Add To Cart</button>
+                                                                                                                    </div>
+                                        
+                                                                                <div class="display-onhover addtolink-wrapper">
+                                                
+                                                                                                                        
+                                                                                                                        
+                        <ul class="add-to-links">
+                                                            <li>
+                                    <a href="http://localhost/maruti/index.php/wishlist/index/add/product/2/form_key/8PtpZxONQnnDefFC/" class="link-wishlist">
+                                        &nbsp;<i class="fa fa-heart-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                                                        <li class="hidden-xs">
+                                    <span class="separator">|</span>
+                                    <a href="http://localhost/maruti/index.php/catalog/product_compare/add/product/2/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/form_key/8PtpZxONQnnDefFC/" class="link-compare">
+                                        &nbsp;<i class="fa fa-files-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                    </ul>
+                                            </div>
+                                                        </div>
+
+                                                                <div class="display-onhover name-wrapper">
+                                                            <h3 class="product-name"><a href="http://localhost/maruti/index.php/ut-egestas-ante.html" title="Ut egestas ante ">Ut egestas ante </a></h3>
+                                    </div>
+                                
+                
+                                                                <div class="display-onhover price-wrapper">
+                                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-2290031452175496">
+                                            <span class="price">₹123.00</span>                                    </span>
+                        
+        </div>
+
+                                    </div>
+                                
+                                                                <div class="display-onhover rating-wrapper">
+                                                                            <div class="rating-box">
+                <div class="rating" style="width:77%"></div>
+            </div>
+                <div class="rating-links">
+            <a href="http://localhost/maruti/index.php/review/product/list/id/2/">2 Review(s)</a>
+            <span class="separator">|</span>
+            <a href="http://localhost/maruti/index.php/review/product/list/id/2/#review-form">Add Your Review</a>
+        </div>
+                                            </div>
+                                
+                                
+                                                        </div>
+            </div>
+        </div>                                            <!-- End Product Item -->
+                                            
+                                </div>
+
+                                                                                                                                        <div class="item product-item products-grid no-margin  equal-height hover-effect single-line-name" >
+
+                                                                                                            <!-- Product Item -->
+                                                    <div class="product-block">
+    <div class="product-wrapp">
+        <div class="image">
+                                    <div class="icon">
+                                    <span class="new-icon"><span>New</span></span>
+                            </div>
+        
+                <div class="product-image">
+            <a href="http://localhost/maruti/index.php/nolita-cami-bundle.html" title="NoLIta Cami bundle">
+                <img                 src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus107_1.jpg"
+                alt="NoLIta Cami bundle" />
+            </a>
+                        <a class="hover-image" href="http://localhost/maruti/index.php/nolita-cami-bundle.html">
+                                <img src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus107_1.jpg" width="280" height="423" alt="NoLIta Cami bundle" />
+                                </a>
+                            </div>
+
+                                    <div class="quickview hidden-sm hidden-xs">
+                                <div class="display-onhover quickview-wrapper">
+                                        <a href='http://localhost/maruti/index.php/ajax/quickview/view/id/13/' class='fancybox-play tooltip_container button' data-ftype='iframe' data-hideOnContentClick="true" data-overlayOpacity="true" data-width="60%" data-height="75%" data-scrolling="yes" data-show-close-button="true" data-verlay-opacity="0.8" data-show-overlay="true" id='quickview-fancybox13182161452175496'>
+                                                                        &nbsp;<i class="fa fa-search-plus"></i>&nbsp;<span class="hidden-xs">Quickview</span>                        
+                    </a>
+                                    </div>
+                            </div>
+                    </div>
+
+        <div class="product-info">
+            <div class="actions">
+                                                                                                
+                                                <div class="display-onhover addtocart-wrapper">
+                                                                                                                <button type="button" title="Add to Cart" class="button btn-cart" onclick="showOptions('13')">&nbsp;<i class="fa  fa-shopping-cart"></i>&nbsp;Add To Cart</button>
+                        <a href='http://localhost/maruti/index.php/ajax/quickview/view/id/13/' class='fancybox-play tooltip_container hidden' data-ftype='iframe' data-hideOnContentClick="true" data-overlayOpacity="true" data-width="60%" data-height="75%" data-scrolling="yes" data-show-close-button="true" data-verlay-opacity="0.8" data-show-overlay="true" id='fancybox13182161452175496' ></a>
+                                                                                                                    </div>
+                                        
+                                                                                <div class="display-onhover addtolink-wrapper">
+                                                
+                                                                                                                        
+                                                                                                                        
+                        <ul class="add-to-links">
+                                                            <li>
+                                    <a href="http://localhost/maruti/index.php/wishlist/index/add/product/13/form_key/8PtpZxONQnnDefFC/" class="link-wishlist">
+                                        &nbsp;<i class="fa fa-heart-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                                                        <li class="hidden-xs">
+                                    <span class="separator">|</span>
+                                    <a href="http://localhost/maruti/index.php/catalog/product_compare/add/product/13/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/form_key/8PtpZxONQnnDefFC/" class="link-compare">
+                                        &nbsp;<i class="fa fa-files-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                    </ul>
+                                            </div>
+                                                        </div>
+
+                                                                <div class="display-onhover name-wrapper">
+                                                            <h3 class="product-name"><a href="http://localhost/maruti/index.php/nolita-cami-bundle.html" title="NoLIta Cami bundle">NoLIta Cami bundle</a></h3>
+                                    </div>
+                                
+                
+                                                                <div class="display-onhover price-wrapper">
+                                        
+<div class="price-box">
+                    <p class="minimal-price">
+                <span class="price-label">As low as:</span>
+                                                    <span class="price">₹204.00</span>                                                                        </p>
+        </div>
+                                    </div>
+                                
+                                                                <div class="display-onhover rating-wrapper">
+                                                                            <div class="rating-box">
+                <div class="rating" style="width:100%"></div>
+            </div>
+                <div class="rating-links">
+            <a href="http://localhost/maruti/index.php/review/product/list/id/13/">1 Review(s)</a>
+            <span class="separator">|</span>
+            <a href="http://localhost/maruti/index.php/review/product/list/id/13/#review-form">Add Your Review</a>
+        </div>
+                                            </div>
+                                
+                                
+                                                        </div>
+            </div>
+        </div>                                            <!-- End Product Item -->
+                                            
+                                </div>
+
+                                                                                                                                        <div class="item product-item products-grid no-margin  equal-height hover-effect single-line-name" >
+
+                                                                                                            <!-- Product Item -->
+                                                    <div class="product-block">
+    <div class="product-wrapp">
+        <div class="image">
+                                    <div class="icon">
+                                    <span class="new-icon"><span>New</span></span>
+                            </div>
+        
+                <div class="product-image">
+            <a href="http://localhost/maruti/index.php/women-spring-clothes-configurable.html" title="Women Spring Clothes Configurable">
+                <img                 src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus100_1.jpg"
+                alt="Women Spring Clothes Configurable" />
+            </a>
+                        <a class="hover-image" href="http://localhost/maruti/index.php/women-spring-clothes-configurable.html">
+                                <img src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus111_1.jpg" width="280" height="423" alt="Women Spring Clothes Configurable" />
+                                </a>
+                            </div>
+
+                                    <div class="quickview hidden-sm hidden-xs">
+                                <div class="display-onhover quickview-wrapper">
+                                        <a href='http://localhost/maruti/index.php/ajax/quickview/view/id/14/' class='fancybox-play tooltip_container button' data-ftype='iframe' data-hideOnContentClick="true" data-overlayOpacity="true" data-width="60%" data-height="75%" data-scrolling="yes" data-show-close-button="true" data-verlay-opacity="0.8" data-show-overlay="true" id='quickview-fancybox14113291452175496'>
+                                                                        &nbsp;<i class="fa fa-search-plus"></i>&nbsp;<span class="hidden-xs">Quickview</span>                        
+                    </a>
+                                    </div>
+                            </div>
+                    </div>
+
+        <div class="product-info">
+            <div class="actions">
+                                                                                                
+                                                <div class="display-onhover addtocart-wrapper">
+                                                                                                                <button type="button" title="Add to Cart" class="button btn-cart" onclick="showOptions('14')">&nbsp;<i class="fa  fa-shopping-cart"></i>&nbsp;Add To Cart</button>
+                        <a href='http://localhost/maruti/index.php/ajax/quickview/view/id/14/' class='fancybox-play tooltip_container hidden' data-ftype='iframe' data-hideOnContentClick="true" data-overlayOpacity="true" data-width="60%" data-height="75%" data-scrolling="yes" data-show-close-button="true" data-verlay-opacity="0.8" data-show-overlay="true" id='fancybox14113291452175496' ></a>
+                                                                                                                    </div>
+                                        
+                                                                                <div class="display-onhover addtolink-wrapper">
+                                                
+                                                                                                                        
+                                                                                                                        
+                        <ul class="add-to-links">
+                                                            <li>
+                                    <a href="http://localhost/maruti/index.php/wishlist/index/add/product/14/form_key/8PtpZxONQnnDefFC/" class="link-wishlist">
+                                        &nbsp;<i class="fa fa-heart-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                                                        <li class="hidden-xs">
+                                    <span class="separator">|</span>
+                                    <a href="http://localhost/maruti/index.php/catalog/product_compare/add/product/14/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/form_key/8PtpZxONQnnDefFC/" class="link-compare">
+                                        &nbsp;<i class="fa fa-files-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                    </ul>
+                                            </div>
+                                                        </div>
+
+                                                                <div class="display-onhover name-wrapper">
+                                                            <h3 class="product-name"><a href="http://localhost/maruti/index.php/women-spring-clothes-configurable.html" title="Women Spring Clothes Configurable">Women Spring Clothes Configurable</a></h3>
+                                    </div>
+                                
+                
+                                                                <div class="display-onhover price-wrapper">
+                                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-14113291452175496">
+                                            <span class="price">₹125.00</span>                                    </span>
+                        
+        </div>
+
+                                    </div>
+                                
+                                                                <div class="display-onhover rating-wrapper">
+                                                                            <div class="rating-box">
+                <div class="rating" style="width:80%"></div>
+            </div>
+                <div class="rating-links">
+            <a href="http://localhost/maruti/index.php/review/product/list/id/14/">1 Review(s)</a>
+            <span class="separator">|</span>
+            <a href="http://localhost/maruti/index.php/review/product/list/id/14/#review-form">Add Your Review</a>
+        </div>
+                                            </div>
+                                
+                                
+                                                        </div>
+            </div>
+        </div>                                            <!-- End Product Item -->
+                                            
+                                </div>
+
+                                                                                                                                        <div class="item product-item products-grid no-margin  equal-height hover-effect single-line-name" >
+
+                                                                                                            <!-- Product Item -->
+                                                    <div class="product-block">
+    <div class="product-wrapp">
+        <div class="image">
+                                    <div class="icon">
+                                    <span class="new-icon"><span>New</span></span>
+                            </div>
+        
+                <div class="product-image">
+            <a href="http://localhost/maruti/index.php/sed-vestibulum-massa.html" title="Sed vestibulum massa">
+                <img                 src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus108.jpg"
+                alt="Sed vestibulum massa" />
+            </a>
+                        <a class="hover-image" href="http://localhost/maruti/index.php/sed-vestibulum-massa.html">
+                                <img src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus108.jpg" width="280" height="423" alt="Sed vestibulum massa" />
+                                </a>
+                            </div>
+
+                                    <div class="quickview hidden-sm hidden-xs">
+                                <div class="display-onhover quickview-wrapper">
+                                        <a href='http://localhost/maruti/index.php/ajax/quickview/view/id/3/' class='fancybox-play tooltip_container button' data-ftype='iframe' data-hideOnContentClick="true" data-overlayOpacity="true" data-width="60%" data-height="75%" data-scrolling="yes" data-show-close-button="true" data-verlay-opacity="0.8" data-show-overlay="true" id='quickview-fancybox3219901452175496'>
+                                                                        &nbsp;<i class="fa fa-search-plus"></i>&nbsp;<span class="hidden-xs">Quickview</span>                        
+                    </a>
+                                    </div>
+                            </div>
+                    </div>
+
+        <div class="product-info">
+            <div class="actions">
+                                                                                                
+                                                <div class="display-onhover addtocart-wrapper">
+                                                                                                                <button type="button" title="Add to Cart" class="button btn-cart ajx-cart" onclick="setLocationAjax('http://localhost/maruti/index.php/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/product/3/form_key/8PtpZxONQnnDefFC/','3')">&nbsp;<i class="fa  fa-shopping-cart"></i>&nbsp;Add To Cart</button>
+                                                                                                                    </div>
+                                        
+                                                                                <div class="display-onhover addtolink-wrapper">
+                                                
+                                                                                                                        
+                                                                                                                        
+                        <ul class="add-to-links">
+                                                            <li>
+                                    <a href="http://localhost/maruti/index.php/wishlist/index/add/product/3/form_key/8PtpZxONQnnDefFC/" class="link-wishlist">
+                                        &nbsp;<i class="fa fa-heart-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                                                        <li class="hidden-xs">
+                                    <span class="separator">|</span>
+                                    <a href="http://localhost/maruti/index.php/catalog/product_compare/add/product/3/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/form_key/8PtpZxONQnnDefFC/" class="link-compare">
+                                        &nbsp;<i class="fa fa-files-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                    </ul>
+                                            </div>
+                                                        </div>
+
+                                                                <div class="display-onhover name-wrapper">
+                                                            <h3 class="product-name"><a href="http://localhost/maruti/index.php/sed-vestibulum-massa.html" title="Sed vestibulum massa">Sed vestibulum massa</a></h3>
+                                    </div>
+                                
+                
+                                                                <div class="display-onhover price-wrapper">
+                                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-3219901452175496">
+                                            <span class="price">₹132.00</span>                                    </span>
+                        
+        </div>
+
+                                    </div>
+                                
+                                                                <div class="display-onhover rating-wrapper">
+                                                                            <div class="rating-box">
+                <div class="rating" style="width:80%"></div>
+            </div>
+                <div class="rating-links">
+            <a href="http://localhost/maruti/index.php/review/product/list/id/3/">1 Review(s)</a>
+            <span class="separator">|</span>
+            <a href="http://localhost/maruti/index.php/review/product/list/id/3/#review-form">Add Your Review</a>
+        </div>
+                                            </div>
+                                
+                                
+                                                        </div>
+            </div>
+        </div>                                            <!-- End Product Item -->
+                                            
+                                </div>
+
+                                                                                                                                        <div class="item product-item products-grid no-margin  equal-height hover-effect single-line-name" >
+
+                                                                                                            <!-- Product Item -->
+                                                    <div class="product-block">
+    <div class="product-wrapp">
+        <div class="image">
+                                    <div class="icon">
+                                            <span class="onsale"><span>Sale</span></span>
+                                                <span class="new-icon"><span>New</span></span>
+                            </div>
+        
+                <div class="product-image">
+            <a href="http://localhost/maruti/index.php/ludlow-oxford-top.html" title="Ludlow Oxford Top">
+                <img                 src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus122.jpg"
+                alt="Ludlow Oxford Top" />
+            </a>
+                        <a class="hover-image" href="http://localhost/maruti/index.php/ludlow-oxford-top.html">
+                                <img src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus123.jpg" width="280" height="423" alt="Ludlow Oxford Top" />
+                                </a>
+                            </div>
+
+                                    <div class="quickview hidden-sm hidden-xs">
+                                <div class="display-onhover quickview-wrapper">
+                                        <a href='http://localhost/maruti/index.php/ajax/quickview/view/id/11/' class='fancybox-play tooltip_container button' data-ftype='iframe' data-hideOnContentClick="true" data-overlayOpacity="true" data-width="60%" data-height="75%" data-scrolling="yes" data-show-close-button="true" data-verlay-opacity="0.8" data-show-overlay="true" id='quickview-fancybox11223111452175496'>
+                                                                        &nbsp;<i class="fa fa-search-plus"></i>&nbsp;<span class="hidden-xs">Quickview</span>                        
+                    </a>
+                                    </div>
+                            </div>
+                    </div>
+
+        <div class="product-info">
+            <div class="actions">
+                                                                                                
+                                                <div class="display-onhover addtocart-wrapper">
+                                                                                                                <button type="button" title="Add to Cart" class="button btn-cart ajx-cart" onclick="setLocationAjax('http://localhost/maruti/index.php/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/product/11/form_key/8PtpZxONQnnDefFC/','11')">&nbsp;<i class="fa  fa-shopping-cart"></i>&nbsp;Add To Cart</button>
+                                                                                                                    </div>
+                                        
+                                                                                <div class="display-onhover addtolink-wrapper">
+                                                
+                                                                                                                        
+                                                                                                                        
+                        <ul class="add-to-links">
+                                                            <li>
+                                    <a href="http://localhost/maruti/index.php/wishlist/index/add/product/11/form_key/8PtpZxONQnnDefFC/" class="link-wishlist">
+                                        &nbsp;<i class="fa fa-heart-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                                                        <li class="hidden-xs">
+                                    <span class="separator">|</span>
+                                    <a href="http://localhost/maruti/index.php/catalog/product_compare/add/product/11/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/form_key/8PtpZxONQnnDefFC/" class="link-compare">
+                                        &nbsp;<i class="fa fa-files-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                    </ul>
+                                            </div>
+                                                        </div>
+
+                                                                <div class="display-onhover name-wrapper">
+                                                            <h3 class="product-name"><a href="http://localhost/maruti/index.php/ludlow-oxford-top.html" title="Ludlow Oxford Top">Ludlow Oxford Top</a></h3>
+                                    </div>
+                                
+                
+                                                                <div class="display-onhover price-wrapper">
+                                        
+
+                        
+    <div class="price-box">
+                                            
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-11223111452175496">
+                    ₹120.00                </span>
+            </p>
+
+                            <p class="special-price">
+                    <span class="price-label">Special Price</span>
+                <span class="price" id="product-price-11223111452175496">
+                    ₹115.00                </span>
+                </p>
+                    
+    
+        </div>
+
+                                    </div>
+                                
+                                                                <div class="display-onhover rating-wrapper">
+                                            <div class="ratings">
+        <div class="rating-box">
+            <div class="rating"></div>
+        </div>
+        <div class="rating-links">
+            <a href="http://localhost/maruti/index.php/review/product/list/id/11/">0 Review</a>
+            <span class="separator">|</span>
+            <a href="http://localhost/maruti/index.php/review/product/list/id/11/#review-form">Add Your Review</a>
+        </div>
+    </div>
+                                    </div>
+                                
+                                
+                                                        </div>
+            </div>
+        </div>                                            <!-- End Product Item -->
+                                            
+                                </div>
+
+                                                                                                                                        <div class="item product-item products-grid no-margin  equal-height hover-effect single-line-name" >
+
+                                                                                                            <!-- Product Item -->
+                                                    <div class="product-block">
+    <div class="product-wrapp">
+        <div class="image">
+                                    <div class="icon">
+                                            <span class="onsale"><span>Sale</span></span>
+                                                <span class="new-icon"><span>New</span></span>
+                            </div>
+        
+                <div class="product-image">
+            <a href="http://localhost/maruti/index.php/slim-fit-dobby-oxford-shirt.html" title="Slim fit Dobby Oxford Shirt">
+                <img                 src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus118.jpg"
+                alt="Slim fit Dobby Oxford Shirt" />
+            </a>
+                        <a class="hover-image" href="http://localhost/maruti/index.php/slim-fit-dobby-oxford-shirt.html">
+                                <img src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus118.jpg" width="280" height="423" alt="Slim fit Dobby Oxford Shirt" />
+                                </a>
+                            </div>
+
+                                    <div class="quickview hidden-sm hidden-xs">
+                                <div class="display-onhover quickview-wrapper">
+                                        <a href='http://localhost/maruti/index.php/ajax/quickview/view/id/10/' class='fancybox-play tooltip_container button' data-ftype='iframe' data-hideOnContentClick="true" data-overlayOpacity="true" data-width="60%" data-height="75%" data-scrolling="yes" data-show-close-button="true" data-verlay-opacity="0.8" data-show-overlay="true" id='quickview-fancybox10117321452175496'>
+                                                                        &nbsp;<i class="fa fa-search-plus"></i>&nbsp;<span class="hidden-xs">Quickview</span>                        
+                    </a>
+                                    </div>
+                            </div>
+                    </div>
+
+        <div class="product-info">
+            <div class="actions">
+                                                                                                
+                                                <div class="display-onhover addtocart-wrapper">
+                                                                                                                <button type="button" title="Add to Cart" class="button btn-cart ajx-cart" onclick="setLocationAjax('http://localhost/maruti/index.php/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/product/10/form_key/8PtpZxONQnnDefFC/','10')">&nbsp;<i class="fa  fa-shopping-cart"></i>&nbsp;Add To Cart</button>
+                                                                                                                    </div>
+                                        
+                                                                                <div class="display-onhover addtolink-wrapper">
+                                                
+                                                                                                                        
+                                                                                                                        
+                        <ul class="add-to-links">
+                                                            <li>
+                                    <a href="http://localhost/maruti/index.php/wishlist/index/add/product/10/form_key/8PtpZxONQnnDefFC/" class="link-wishlist">
+                                        &nbsp;<i class="fa fa-heart-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                                                        <li class="hidden-xs">
+                                    <span class="separator">|</span>
+                                    <a href="http://localhost/maruti/index.php/catalog/product_compare/add/product/10/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/form_key/8PtpZxONQnnDefFC/" class="link-compare">
+                                        &nbsp;<i class="fa fa-files-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                    </ul>
+                                            </div>
+                                                        </div>
+
+                                                                <div class="display-onhover name-wrapper">
+                                                            <h3 class="product-name"><a href="http://localhost/maruti/index.php/slim-fit-dobby-oxford-shirt.html" title="Slim fit Dobby Oxford Shirt">Slim fit Dobby Oxford Shirt</a></h3>
+                                    </div>
+                                
+                
+                                                                <div class="display-onhover price-wrapper">
+                                        
+
+                        
+    <div class="price-box">
+                                            
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-10117321452175496">
+                    ₹125.00                </span>
+            </p>
+
+                            <p class="special-price">
+                    <span class="price-label">Special Price</span>
+                <span class="price" id="product-price-10117321452175496">
+                    ₹120.00                </span>
+                </p>
+                    
+    
+        </div>
+
+                                    </div>
+                                
+                                                                <div class="display-onhover rating-wrapper">
+                                            <div class="ratings">
+        <div class="rating-box">
+            <div class="rating"></div>
+        </div>
+        <div class="rating-links">
+            <a href="http://localhost/maruti/index.php/review/product/list/id/10/">0 Review</a>
+            <span class="separator">|</span>
+            <a href="http://localhost/maruti/index.php/review/product/list/id/10/#review-form">Add Your Review</a>
+        </div>
+    </div>
+                                    </div>
+                                
+                                
+                                                        </div>
+            </div>
+        </div>                                            <!-- End Product Item -->
+                                            
+                                </div>
+
+                                                                                                                                        <div class="item product-item products-grid no-margin  equal-height hover-effect single-line-name" >
+
+                                                                                                            <!-- Product Item -->
+                                                    <div class="product-block">
+    <div class="product-wrapp">
+        <div class="image">
+                                    <div class="icon">
+                                    <span class="new-icon"><span>New</span></span>
+                            </div>
+        
+                <div class="product-image">
+            <a href="http://localhost/maruti/index.php/curabitur-consequat.html" title="  Curabitur consequat ">
+                <img                 src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus102.jpg"
+                alt="  Curabitur consequat " />
+            </a>
+                        <a class="hover-image" href="http://localhost/maruti/index.php/curabitur-consequat.html">
+                                <img src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus100.jpg" width="280" height="423" alt="  Curabitur consequat " />
+                                </a>
+                            </div>
+
+                                    <div class="quickview hidden-sm hidden-xs">
+                                <div class="display-onhover quickview-wrapper">
+                                        <a href='http://localhost/maruti/index.php/ajax/quickview/view/id/1/' class='fancybox-play tooltip_container button' data-ftype='iframe' data-hideOnContentClick="true" data-overlayOpacity="true" data-width="60%" data-height="75%" data-scrolling="yes" data-show-close-button="true" data-verlay-opacity="0.8" data-show-overlay="true" id='quickview-fancybox1193251452175496'>
+                                                                        &nbsp;<i class="fa fa-search-plus"></i>&nbsp;<span class="hidden-xs">Quickview</span>                        
+                    </a>
+                                    </div>
+                            </div>
+                    </div>
+
+        <div class="product-info">
+            <div class="actions">
+                                                                                                
+                                                <div class="display-onhover addtocart-wrapper">
+                                                                                                                <button type="button" title="Add to Cart" class="button btn-cart ajx-cart" onclick="setLocationAjax('http://localhost/maruti/index.php/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/product/1/form_key/8PtpZxONQnnDefFC/','1')">&nbsp;<i class="fa  fa-shopping-cart"></i>&nbsp;Add To Cart</button>
+                                                                                                                    </div>
+                                        
+                                                                                <div class="display-onhover addtolink-wrapper">
+                                                
+                                                                                                                        
+                                                                                                                        
+                        <ul class="add-to-links">
+                                                            <li>
+                                    <a href="http://localhost/maruti/index.php/wishlist/index/add/product/1/form_key/8PtpZxONQnnDefFC/" class="link-wishlist">
+                                        &nbsp;<i class="fa fa-heart-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                                                        <li class="hidden-xs">
+                                    <span class="separator">|</span>
+                                    <a href="http://localhost/maruti/index.php/catalog/product_compare/add/product/1/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/form_key/8PtpZxONQnnDefFC/" class="link-compare">
+                                        &nbsp;<i class="fa fa-files-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                    </ul>
+                                            </div>
+                                                        </div>
+
+                                                                <div class="display-onhover name-wrapper">
+                                                            <h3 class="product-name"><a href="http://localhost/maruti/index.php/curabitur-consequat.html" title="  Curabitur consequat ">  Curabitur consequat </a></h3>
+                                    </div>
+                                
+                
+                                                                <div class="display-onhover price-wrapper">
+                                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-1193251452175496">
+                                            <span class="price">₹132.00</span>                                    </span>
+                        
+        </div>
+
+                                    </div>
+                                
+                                                                <div class="display-onhover rating-wrapper">
+                                                                            <div class="rating-box">
+                <div class="rating" style="width:87%"></div>
+            </div>
+                <div class="rating-links">
+            <a href="http://localhost/maruti/index.php/review/product/list/id/1/">1 Review(s)</a>
+            <span class="separator">|</span>
+            <a href="http://localhost/maruti/index.php/review/product/list/id/1/#review-form">Add Your Review</a>
+        </div>
+                                            </div>
+                                
+                                
+                                                        </div>
+            </div>
+        </div>                                            <!-- End Product Item -->
+                                            
+                                </div>
+
+                                                                                                                                        <div class="item product-item products-grid no-margin  equal-height hover-effect single-line-name" >
+
+                                                                                                            <!-- Product Item -->
+                                                    <div class="product-block">
+    <div class="product-wrapp">
+        <div class="image">
+                                    <div class="icon">
+                                            <span class="onsale"><span>Sale</span></span>
+                                                <span class="new-icon"><span>New</span></span>
+                            </div>
+        
+                <div class="product-image">
+            <a href="http://localhost/maruti/index.php/reversible-tote.html" title="Reversible Tote">
+                <img                 src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus127_1.jpg"
+                alt="Reversible Tote" />
+            </a>
+                        <a class="hover-image" href="http://localhost/maruti/index.php/reversible-tote.html">
+                                <img src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus128_1.jpg" width="280" height="423" alt="Reversible Tote" />
+                                </a>
+                            </div>
+
+                                    <div class="quickview hidden-sm hidden-xs">
+                                <div class="display-onhover quickview-wrapper">
+                                        <a href='http://localhost/maruti/index.php/ajax/quickview/view/id/7/' class='fancybox-play tooltip_container button' data-ftype='iframe' data-hideOnContentClick="true" data-overlayOpacity="true" data-width="60%" data-height="75%" data-scrolling="yes" data-show-close-button="true" data-verlay-opacity="0.8" data-show-overlay="true" id='quickview-fancybox7272501452175496'>
+                                                                        &nbsp;<i class="fa fa-search-plus"></i>&nbsp;<span class="hidden-xs">Quickview</span>                        
+                    </a>
+                                    </div>
+                            </div>
+                    </div>
+
+        <div class="product-info">
+            <div class="actions">
+                                                                                                
+                                                <div class="display-onhover addtocart-wrapper">
+                                                                                                                <button type="button" title="Add to Cart" class="button btn-cart ajx-cart" onclick="setLocationAjax('http://localhost/maruti/index.php/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/product/7/form_key/8PtpZxONQnnDefFC/','7')">&nbsp;<i class="fa  fa-shopping-cart"></i>&nbsp;Add To Cart</button>
+                                                                                                                    </div>
+                                        
+                                                                                <div class="display-onhover addtolink-wrapper">
+                                                
+                                                                                                                        
+                                                                                                                        
+                        <ul class="add-to-links">
+                                                            <li>
+                                    <a href="http://localhost/maruti/index.php/wishlist/index/add/product/7/form_key/8PtpZxONQnnDefFC/" class="link-wishlist">
+                                        &nbsp;<i class="fa fa-heart-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                                                        <li class="hidden-xs">
+                                    <span class="separator">|</span>
+                                    <a href="http://localhost/maruti/index.php/catalog/product_compare/add/product/7/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/form_key/8PtpZxONQnnDefFC/" class="link-compare">
+                                        &nbsp;<i class="fa fa-files-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                    </ul>
+                                            </div>
+                                                        </div>
+
+                                                                <div class="display-onhover name-wrapper">
+                                                            <h3 class="product-name"><a href="http://localhost/maruti/index.php/reversible-tote.html" title="Reversible Tote">Reversible Tote</a></h3>
+                                    </div>
+                                
+                
+                                                                <div class="display-onhover price-wrapper">
+                                        
+
+                        
+    <div class="price-box">
+                                            
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-7272501452175496">
+                    ₹120.00                </span>
+            </p>
+
+                            <p class="special-price">
+                    <span class="price-label">Special Price</span>
+                <span class="price" id="product-price-7272501452175496">
+                    ₹105.00                </span>
+                </p>
+                    
+    
+        </div>
+
+                                    </div>
+                                
+                                                                <div class="display-onhover rating-wrapper">
+                                            <div class="ratings">
+        <div class="rating-box">
+            <div class="rating"></div>
+        </div>
+        <div class="rating-links">
+            <a href="http://localhost/maruti/index.php/review/product/list/id/7/">0 Review</a>
+            <span class="separator">|</span>
+            <a href="http://localhost/maruti/index.php/review/product/list/id/7/#review-form">Add Your Review</a>
+        </div>
+    </div>
+                                    </div>
+                                
+                                
+                                                        </div>
+            </div>
+        </div>                                            <!-- End Product Item -->
+                                            
+                                </div>
+
+                                                                            </div>
+
+                                            <div class="carousel-controls">
+                            <a class="owl-left left carousel-control" href="#owltabsproductcarousel128261452175496" data-slide="prev">
+                                <span class="fa fa-angle-left"></span>
+                            </a>
+                            <a class="owl-right right carousel-control" href="#owltabsproductcarousel128261452175496" data-slide="next">
+                                <span class="fa fa-angle-right"></span>
+                            </a>
+                        </div>
+                                    </div>
+            </div>
+                                            <div id="productlist_tab1289751452175496" class="tab-owlproductcarousel-content">
+                                
+                
+                <div class="box-products carousel slide owl-carousel-play" data-ride="owlcarousel">
+                    <div id="owltabsproductcarousel213121452175496"
+                        class="owl-carousel"
+                        data-slide-default="4"
+                        data-slide-desktop="1199,4"
+                        data-slide-desktop-small="979,3"
+                        data-slide-tablet="768, 2"
+                        data-slide-tablet-small="640, 2"
+                        data-slide-mobile="479, 1"
+                        data-slide-custom="false"
+                        data-slide-speed="500"
+                        data-auto="false"
+                        data-lazyload="false"
+                        data-navigation="false"
+                        data-pagination="true">
+
+                                                                                                                                <div class="item product-item products-grid no-margin  equal-height hover-effect single-line-name" >
+
+                                                                                                            <!-- Product Item -->
+                                                    <div class="product-block">
+    <div class="product-wrapp">
+        <div class="image">
+                                    <div class="icon">
+                                    <span class="new-icon"><span>New</span></span>
+                            </div>
+        
+                <div class="product-image">
+            <a href="http://localhost/maruti/index.php/sed-vestibulum-massa.html" title="Sed vestibulum massa">
+                <img                 src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus108.jpg"
+                alt="Sed vestibulum massa" />
+            </a>
+                        <a class="hover-image" href="http://localhost/maruti/index.php/sed-vestibulum-massa.html">
+                                <img src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus108.jpg" width="280" height="423" alt="Sed vestibulum massa" />
+                                </a>
+                            </div>
+
+                                    <div class="quickview hidden-sm hidden-xs">
+                                <div class="display-onhover quickview-wrapper">
+                                        <a href='http://localhost/maruti/index.php/ajax/quickview/view/id/3/' class='fancybox-play tooltip_container button' data-ftype='iframe' data-hideOnContentClick="true" data-overlayOpacity="true" data-width="60%" data-height="75%" data-scrolling="yes" data-show-close-button="true" data-verlay-opacity="0.8" data-show-overlay="true" id='quickview-fancybox388251452175496'>
+                                                                        &nbsp;<i class="fa fa-search-plus"></i>&nbsp;<span class="hidden-xs">Quickview</span>                        
+                    </a>
+                                    </div>
+                            </div>
+                    </div>
+
+        <div class="product-info">
+            <div class="actions">
+                                                                                                
+                                                <div class="display-onhover addtocart-wrapper">
+                                                                                                                <button type="button" title="Add to Cart" class="button btn-cart ajx-cart" onclick="setLocationAjax('http://localhost/maruti/index.php/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/product/3/form_key/8PtpZxONQnnDefFC/','3')">&nbsp;<i class="fa  fa-shopping-cart"></i>&nbsp;Add To Cart</button>
+                                                                                                                    </div>
+                                        
+                                                                                <div class="display-onhover addtolink-wrapper">
+                                                
+                                                                                                                        
+                                                                                                                        
+                        <ul class="add-to-links">
+                                                            <li>
+                                    <a href="http://localhost/maruti/index.php/wishlist/index/add/product/3/form_key/8PtpZxONQnnDefFC/" class="link-wishlist">
+                                        &nbsp;<i class="fa fa-heart-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                                                        <li class="hidden-xs">
+                                    <span class="separator">|</span>
+                                    <a href="http://localhost/maruti/index.php/catalog/product_compare/add/product/3/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/form_key/8PtpZxONQnnDefFC/" class="link-compare">
+                                        &nbsp;<i class="fa fa-files-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                    </ul>
+                                            </div>
+                                                        </div>
+
+                                                                <div class="display-onhover name-wrapper">
+                                                            <h3 class="product-name"><a href="http://localhost/maruti/index.php/sed-vestibulum-massa.html" title="Sed vestibulum massa">Sed vestibulum massa</a></h3>
+                                    </div>
+                                
+                
+                                                                <div class="display-onhover price-wrapper">
+                                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-388251452175496">
+                                            <span class="price">₹132.00</span>                                    </span>
+                        
+        </div>
+
+                                    </div>
+                                
+                                                                <div class="display-onhover rating-wrapper">
+                                                                            <div class="rating-box">
+                <div class="rating" style="width:80%"></div>
+            </div>
+                <div class="rating-links">
+            <a href="http://localhost/maruti/index.php/review/product/list/id/3/">1 Review(s)</a>
+            <span class="separator">|</span>
+            <a href="http://localhost/maruti/index.php/review/product/list/id/3/#review-form">Add Your Review</a>
+        </div>
+                                            </div>
+                                
+                                
+                                                        </div>
+            </div>
+        </div>                                            <!-- End Product Item -->
+                                            
+                                </div>
+
+                                                                                                                                        <div class="item product-item products-grid no-margin  equal-height hover-effect single-line-name" >
+
+                                                                                                            <!-- Product Item -->
+                                                    <div class="product-block">
+    <div class="product-wrapp">
+        <div class="image">
+                                    <div class="icon">
+                                            <span class="onsale"><span>Sale</span></span>
+                                                <span class="new-icon"><span>New</span></span>
+                            </div>
+        
+                <div class="product-image">
+            <a href="http://localhost/maruti/index.php/core-striped-sport-shirt.html" title="Core Striped Sport Shirt">
+                <img                 src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus115.jpg"
+                alt="Core Striped Sport Shirt" />
+            </a>
+                        <a class="hover-image" href="http://localhost/maruti/index.php/core-striped-sport-shirt.html">
+                                <img src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus116.jpg" width="280" height="423" alt="Core Striped Sport Shirt" />
+                                </a>
+                            </div>
+
+                                    <div class="quickview hidden-sm hidden-xs">
+                                <div class="display-onhover quickview-wrapper">
+                                        <a href='http://localhost/maruti/index.php/ajax/quickview/view/id/9/' class='fancybox-play tooltip_container button' data-ftype='iframe' data-hideOnContentClick="true" data-overlayOpacity="true" data-width="60%" data-height="75%" data-scrolling="yes" data-show-close-button="true" data-verlay-opacity="0.8" data-show-overlay="true" id='quickview-fancybox9152941452175496'>
+                                                                        &nbsp;<i class="fa fa-search-plus"></i>&nbsp;<span class="hidden-xs">Quickview</span>                        
+                    </a>
+                                    </div>
+                            </div>
+                    </div>
+
+        <div class="product-info">
+            <div class="actions">
+                                                                                                
+                                                <div class="display-onhover addtocart-wrapper">
+                                                                                                                <button type="button" title="Add to Cart" class="button btn-cart ajx-cart" onclick="setLocationAjax('http://localhost/maruti/index.php/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/product/9/form_key/8PtpZxONQnnDefFC/','9')">&nbsp;<i class="fa  fa-shopping-cart"></i>&nbsp;Add To Cart</button>
+                                                                                                                    </div>
+                                        
+                                                                                <div class="display-onhover addtolink-wrapper">
+                                                
+                                                                                                                        
+                                                                                                                        
+                        <ul class="add-to-links">
+                                                            <li>
+                                    <a href="http://localhost/maruti/index.php/wishlist/index/add/product/9/form_key/8PtpZxONQnnDefFC/" class="link-wishlist">
+                                        &nbsp;<i class="fa fa-heart-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                                                        <li class="hidden-xs">
+                                    <span class="separator">|</span>
+                                    <a href="http://localhost/maruti/index.php/catalog/product_compare/add/product/9/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/form_key/8PtpZxONQnnDefFC/" class="link-compare">
+                                        &nbsp;<i class="fa fa-files-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                    </ul>
+                                            </div>
+                                                        </div>
+
+                                                                <div class="display-onhover name-wrapper">
+                                                            <h3 class="product-name"><a href="http://localhost/maruti/index.php/core-striped-sport-shirt.html" title="Core Striped Sport Shirt">Core Striped Sport Shirt</a></h3>
+                                    </div>
+                                
+                
+                                                                <div class="display-onhover price-wrapper">
+                                        
+
+                        
+    <div class="price-box">
+                                            
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-9152941452175496">
+                    ₹165.00                </span>
+            </p>
+
+                            <p class="special-price">
+                    <span class="price-label">Special Price</span>
+                <span class="price" id="product-price-9152941452175496">
+                    ₹155.00                </span>
+                </p>
+                    
+    
+        </div>
+
+                                    </div>
+                                
+                                                                <div class="display-onhover rating-wrapper">
+                                            <div class="ratings">
+        <div class="rating-box">
+            <div class="rating"></div>
+        </div>
+        <div class="rating-links">
+            <a href="http://localhost/maruti/index.php/review/product/list/id/9/">0 Review</a>
+            <span class="separator">|</span>
+            <a href="http://localhost/maruti/index.php/review/product/list/id/9/#review-form">Add Your Review</a>
+        </div>
+    </div>
+                                    </div>
+                                
+                                
+                                                        </div>
+            </div>
+        </div>                                            <!-- End Product Item -->
+                                            
+                                </div>
+
+                                                                                                                                        <div class="item product-item products-grid no-margin  equal-height hover-effect single-line-name" >
+
+                                                                                                            <!-- Product Item -->
+                                                    <div class="product-block">
+    <div class="product-wrapp">
+        <div class="image">
+                                    <div class="icon">
+                                            <span class="onsale"><span>Sale</span></span>
+                                                <span class="new-icon"><span>New</span></span>
+                            </div>
+        
+                <div class="product-image">
+            <a href="http://localhost/maruti/index.php/pullover-batwing-sleeve-zigzag.html" title="Pullover Batwing Sleeve Zigzag">
+                <img                 src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus110.jpg"
+                alt="Pullover Batwing Sleeve Zigzag" />
+            </a>
+                        <a class="hover-image" href="http://localhost/maruti/index.php/pullover-batwing-sleeve-zigzag.html">
+                                <img src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus111.jpg" width="280" height="423" alt="Pullover Batwing Sleeve Zigzag" />
+                                </a>
+                            </div>
+
+                                    <div class="quickview hidden-sm hidden-xs">
+                                <div class="display-onhover quickview-wrapper">
+                                        <a href='http://localhost/maruti/index.php/ajax/quickview/view/id/4/' class='fancybox-play tooltip_container button' data-ftype='iframe' data-hideOnContentClick="true" data-overlayOpacity="true" data-width="60%" data-height="75%" data-scrolling="yes" data-show-close-button="true" data-verlay-opacity="0.8" data-show-overlay="true" id='quickview-fancybox410551452175496'>
+                                                                        &nbsp;<i class="fa fa-search-plus"></i>&nbsp;<span class="hidden-xs">Quickview</span>                        
+                    </a>
+                                    </div>
+                            </div>
+                    </div>
+
+        <div class="product-info">
+            <div class="actions">
+                                                                                                
+                                                <div class="display-onhover addtocart-wrapper">
+                                                                                                                <button type="button" title="Add to Cart" class="button btn-cart ajx-cart" onclick="setLocationAjax('http://localhost/maruti/index.php/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/product/4/form_key/8PtpZxONQnnDefFC/','4')">&nbsp;<i class="fa  fa-shopping-cart"></i>&nbsp;Add To Cart</button>
+                                                                                                                    </div>
+                                        
+                                                                                <div class="display-onhover addtolink-wrapper">
+                                                
+                                                                                                                        
+                                                                                                                        
+                        <ul class="add-to-links">
+                                                            <li>
+                                    <a href="http://localhost/maruti/index.php/wishlist/index/add/product/4/form_key/8PtpZxONQnnDefFC/" class="link-wishlist">
+                                        &nbsp;<i class="fa fa-heart-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                                                        <li class="hidden-xs">
+                                    <span class="separator">|</span>
+                                    <a href="http://localhost/maruti/index.php/catalog/product_compare/add/product/4/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/form_key/8PtpZxONQnnDefFC/" class="link-compare">
+                                        &nbsp;<i class="fa fa-files-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                    </ul>
+                                            </div>
+                                                        </div>
+
+                                                                <div class="display-onhover name-wrapper">
+                                                            <h3 class="product-name"><a href="http://localhost/maruti/index.php/pullover-batwing-sleeve-zigzag.html" title="Pullover Batwing Sleeve Zigzag">Pullover Batwing Sleeve Zigzag</a></h3>
+                                    </div>
+                                
+                
+                                                                <div class="display-onhover price-wrapper">
+                                        
+
+                        
+    <div class="price-box">
+                                            
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-410551452175496">
+                    ₹199.00                </span>
+            </p>
+
+                            <p class="special-price">
+                    <span class="price-label">Special Price</span>
+                <span class="price" id="product-price-410551452175496">
+                    ₹185.00                </span>
+                </p>
+                    
+    
+        </div>
+
+                                    </div>
+                                
+                                                                <div class="display-onhover rating-wrapper">
+                                            <div class="ratings">
+        <div class="rating-box">
+            <div class="rating"></div>
+        </div>
+        <div class="rating-links">
+            <a href="http://localhost/maruti/index.php/review/product/list/id/4/">0 Review</a>
+            <span class="separator">|</span>
+            <a href="http://localhost/maruti/index.php/review/product/list/id/4/#review-form">Add Your Review</a>
+        </div>
+    </div>
+                                    </div>
+                                
+                                
+                                                        </div>
+            </div>
+        </div>                                            <!-- End Product Item -->
+                                            
+                                </div>
+
+                                                                                                                                        <div class="item product-item products-grid no-margin  equal-height hover-effect single-line-name" >
+
+                                                                                                            <!-- Product Item -->
+                                                    <div class="product-block">
+    <div class="product-wrapp">
+        <div class="image">
+                                    <div class="icon">
+                                            <span class="onsale"><span>Sale</span></span>
+                                                <span class="new-icon"><span>New</span></span>
+                            </div>
+        
+                <div class="product-image">
+            <a href="http://localhost/maruti/index.php/ludlow-oxford-top.html" title="Ludlow Oxford Top">
+                <img                 src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus122.jpg"
+                alt="Ludlow Oxford Top" />
+            </a>
+                        <a class="hover-image" href="http://localhost/maruti/index.php/ludlow-oxford-top.html">
+                                <img src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus123.jpg" width="280" height="423" alt="Ludlow Oxford Top" />
+                                </a>
+                            </div>
+
+                                    <div class="quickview hidden-sm hidden-xs">
+                                <div class="display-onhover quickview-wrapper">
+                                        <a href='http://localhost/maruti/index.php/ajax/quickview/view/id/11/' class='fancybox-play tooltip_container button' data-ftype='iframe' data-hideOnContentClick="true" data-overlayOpacity="true" data-width="60%" data-height="75%" data-scrolling="yes" data-show-close-button="true" data-verlay-opacity="0.8" data-show-overlay="true" id='quickview-fancybox11254521452175496'>
+                                                                        &nbsp;<i class="fa fa-search-plus"></i>&nbsp;<span class="hidden-xs">Quickview</span>                        
+                    </a>
+                                    </div>
+                            </div>
+                    </div>
+
+        <div class="product-info">
+            <div class="actions">
+                                                                                                
+                                                <div class="display-onhover addtocart-wrapper">
+                                                                                                                <button type="button" title="Add to Cart" class="button btn-cart ajx-cart" onclick="setLocationAjax('http://localhost/maruti/index.php/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/product/11/form_key/8PtpZxONQnnDefFC/','11')">&nbsp;<i class="fa  fa-shopping-cart"></i>&nbsp;Add To Cart</button>
+                                                                                                                    </div>
+                                        
+                                                                                <div class="display-onhover addtolink-wrapper">
+                                                
+                                                                                                                        
+                                                                                                                        
+                        <ul class="add-to-links">
+                                                            <li>
+                                    <a href="http://localhost/maruti/index.php/wishlist/index/add/product/11/form_key/8PtpZxONQnnDefFC/" class="link-wishlist">
+                                        &nbsp;<i class="fa fa-heart-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                                                        <li class="hidden-xs">
+                                    <span class="separator">|</span>
+                                    <a href="http://localhost/maruti/index.php/catalog/product_compare/add/product/11/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/form_key/8PtpZxONQnnDefFC/" class="link-compare">
+                                        &nbsp;<i class="fa fa-files-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                    </ul>
+                                            </div>
+                                                        </div>
+
+                                                                <div class="display-onhover name-wrapper">
+                                                            <h3 class="product-name"><a href="http://localhost/maruti/index.php/ludlow-oxford-top.html" title="Ludlow Oxford Top">Ludlow Oxford Top</a></h3>
+                                    </div>
+                                
+                
+                                                                <div class="display-onhover price-wrapper">
+                                        
+
+                        
+    <div class="price-box">
+                                            
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-11254521452175496">
+                    ₹120.00                </span>
+            </p>
+
+                            <p class="special-price">
+                    <span class="price-label">Special Price</span>
+                <span class="price" id="product-price-11254521452175496">
+                    ₹115.00                </span>
+                </p>
+                    
+    
+        </div>
+
+                                    </div>
+                                
+                                                                <div class="display-onhover rating-wrapper">
+                                            <div class="ratings">
+        <div class="rating-box">
+            <div class="rating"></div>
+        </div>
+        <div class="rating-links">
+            <a href="http://localhost/maruti/index.php/review/product/list/id/11/">0 Review</a>
+            <span class="separator">|</span>
+            <a href="http://localhost/maruti/index.php/review/product/list/id/11/#review-form">Add Your Review</a>
+        </div>
+    </div>
+                                    </div>
+                                
+                                
+                                                        </div>
+            </div>
+        </div>                                            <!-- End Product Item -->
+                                            
+                                </div>
+
+                                                                                                                                        <div class="item product-item products-grid no-margin  equal-height hover-effect single-line-name" >
+
+                                                                                                            <!-- Product Item -->
+                                                    <div class="product-block">
+    <div class="product-wrapp">
+        <div class="image">
+                                    <div class="icon">
+                                            <span class="onsale"><span>Sale</span></span>
+                                                <span class="new-icon"><span>New</span></span>
+                            </div>
+        
+                <div class="product-image">
+            <a href="http://localhost/maruti/index.php/plaid-shirt.html" title="Plaid Shirt">
+                <img                 src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus113.jpg"
+                alt="Plaid Shirt" />
+            </a>
+                        <a class="hover-image" href="http://localhost/maruti/index.php/plaid-shirt.html">
+                                <img src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus112.jpg" width="280" height="423" alt="Plaid Shirt" />
+                                </a>
+                            </div>
+
+                                    <div class="quickview hidden-sm hidden-xs">
+                                <div class="display-onhover quickview-wrapper">
+                                        <a href='http://localhost/maruti/index.php/ajax/quickview/view/id/8/' class='fancybox-play tooltip_container button' data-ftype='iframe' data-hideOnContentClick="true" data-overlayOpacity="true" data-width="60%" data-height="75%" data-scrolling="yes" data-show-close-button="true" data-verlay-opacity="0.8" data-show-overlay="true" id='quickview-fancybox8279571452175496'>
+                                                                        &nbsp;<i class="fa fa-search-plus"></i>&nbsp;<span class="hidden-xs">Quickview</span>                        
+                    </a>
+                                    </div>
+                            </div>
+                    </div>
+
+        <div class="product-info">
+            <div class="actions">
+                                                                                                
+                                                <div class="display-onhover addtocart-wrapper">
+                                                                                                                <button type="button" title="Add to Cart" class="button btn-cart ajx-cart" onclick="setLocationAjax('http://localhost/maruti/index.php/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/product/8/form_key/8PtpZxONQnnDefFC/','8')">&nbsp;<i class="fa  fa-shopping-cart"></i>&nbsp;Add To Cart</button>
+                                                                                                                    </div>
+                                        
+                                                                                <div class="display-onhover addtolink-wrapper">
+                                                
+                                                                                                                        
+                                                                                                                        
+                        <ul class="add-to-links">
+                                                            <li>
+                                    <a href="http://localhost/maruti/index.php/wishlist/index/add/product/8/form_key/8PtpZxONQnnDefFC/" class="link-wishlist">
+                                        &nbsp;<i class="fa fa-heart-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                                                        <li class="hidden-xs">
+                                    <span class="separator">|</span>
+                                    <a href="http://localhost/maruti/index.php/catalog/product_compare/add/product/8/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/form_key/8PtpZxONQnnDefFC/" class="link-compare">
+                                        &nbsp;<i class="fa fa-files-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                    </ul>
+                                            </div>
+                                                        </div>
+
+                                                                <div class="display-onhover name-wrapper">
+                                                            <h3 class="product-name"><a href="http://localhost/maruti/index.php/plaid-shirt.html" title="Plaid Shirt">Plaid Shirt</a></h3>
+                                    </div>
+                                
+                
+                                                                <div class="display-onhover price-wrapper">
+                                        
+
+                        
+    <div class="price-box">
+                                            
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-8279571452175496">
+                    ₹156.00                </span>
+            </p>
+
+                            <p class="special-price">
+                    <span class="price-label">Special Price</span>
+                <span class="price" id="product-price-8279571452175496">
+                    ₹150.00                </span>
+                </p>
+                    
+    
+        </div>
+
+                                    </div>
+                                
+                                                                <div class="display-onhover rating-wrapper">
+                                            <div class="ratings">
+        <div class="rating-box">
+            <div class="rating"></div>
+        </div>
+        <div class="rating-links">
+            <a href="http://localhost/maruti/index.php/review/product/list/id/8/">0 Review</a>
+            <span class="separator">|</span>
+            <a href="http://localhost/maruti/index.php/review/product/list/id/8/#review-form">Add Your Review</a>
+        </div>
+    </div>
+                                    </div>
+                                
+                                
+                                                        </div>
+            </div>
+        </div>                                            <!-- End Product Item -->
+                                            
+                                </div>
+
+                                                                                                                                        <div class="item product-item products-grid no-margin  equal-height hover-effect single-line-name" >
+
+                                                                                                            <!-- Product Item -->
+                                                    <div class="product-block">
+    <div class="product-wrapp">
+        <div class="image">
+                                    <div class="icon">
+                                    <span class="new-icon"><span>New</span></span>
+                            </div>
+        
+                <div class="product-image">
+            <a href="http://localhost/maruti/index.php/nolita-cami-bundle.html" title="NoLIta Cami bundle">
+                <img                 src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus107_1.jpg"
+                alt="NoLIta Cami bundle" />
+            </a>
+                        <a class="hover-image" href="http://localhost/maruti/index.php/nolita-cami-bundle.html">
+                                <img src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus107_1.jpg" width="280" height="423" alt="NoLIta Cami bundle" />
+                                </a>
+                            </div>
+
+                                    <div class="quickview hidden-sm hidden-xs">
+                                <div class="display-onhover quickview-wrapper">
+                                        <a href='http://localhost/maruti/index.php/ajax/quickview/view/id/13/' class='fancybox-play tooltip_container button' data-ftype='iframe' data-hideOnContentClick="true" data-overlayOpacity="true" data-width="60%" data-height="75%" data-scrolling="yes" data-show-close-button="true" data-verlay-opacity="0.8" data-show-overlay="true" id='quickview-fancybox13219621452175496'>
+                                                                        &nbsp;<i class="fa fa-search-plus"></i>&nbsp;<span class="hidden-xs">Quickview</span>                        
+                    </a>
+                                    </div>
+                            </div>
+                    </div>
+
+        <div class="product-info">
+            <div class="actions">
+                                                                                                
+                                                <div class="display-onhover addtocart-wrapper">
+                                                                                                                <button type="button" title="Add to Cart" class="button btn-cart" onclick="showOptions('13')">&nbsp;<i class="fa  fa-shopping-cart"></i>&nbsp;Add To Cart</button>
+                        <a href='http://localhost/maruti/index.php/ajax/quickview/view/id/13/' class='fancybox-play tooltip_container hidden' data-ftype='iframe' data-hideOnContentClick="true" data-overlayOpacity="true" data-width="60%" data-height="75%" data-scrolling="yes" data-show-close-button="true" data-verlay-opacity="0.8" data-show-overlay="true" id='fancybox13219621452175496' ></a>
+                                                                                                                    </div>
+                                        
+                                                                                <div class="display-onhover addtolink-wrapper">
+                                                
+                                                                                                                        
+                                                                                                                        
+                        <ul class="add-to-links">
+                                                            <li>
+                                    <a href="http://localhost/maruti/index.php/wishlist/index/add/product/13/form_key/8PtpZxONQnnDefFC/" class="link-wishlist">
+                                        &nbsp;<i class="fa fa-heart-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                                                        <li class="hidden-xs">
+                                    <span class="separator">|</span>
+                                    <a href="http://localhost/maruti/index.php/catalog/product_compare/add/product/13/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/form_key/8PtpZxONQnnDefFC/" class="link-compare">
+                                        &nbsp;<i class="fa fa-files-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                    </ul>
+                                            </div>
+                                                        </div>
+
+                                                                <div class="display-onhover name-wrapper">
+                                                            <h3 class="product-name"><a href="http://localhost/maruti/index.php/nolita-cami-bundle.html" title="NoLIta Cami bundle">NoLIta Cami bundle</a></h3>
+                                    </div>
+                                
+                
+                                                                <div class="display-onhover price-wrapper">
+                                        
+<div class="price-box">
+                    <p class="minimal-price">
+                <span class="price-label">As low as:</span>
+                                                    <span class="price">₹204.00</span>                                                                        </p>
+        </div>
+                                    </div>
+                                
+                                                                <div class="display-onhover rating-wrapper">
+                                                                            <div class="rating-box">
+                <div class="rating" style="width:100%"></div>
+            </div>
+                <div class="rating-links">
+            <a href="http://localhost/maruti/index.php/review/product/list/id/13/">1 Review(s)</a>
+            <span class="separator">|</span>
+            <a href="http://localhost/maruti/index.php/review/product/list/id/13/#review-form">Add Your Review</a>
+        </div>
+                                            </div>
+                                
+                                
+                                                        </div>
+            </div>
+        </div>                                            <!-- End Product Item -->
+                                            
+                                </div>
+
+                                                                                                                                        <div class="item product-item products-grid no-margin  equal-height hover-effect single-line-name" >
+
+                                                                                                            <!-- Product Item -->
+                                                    <div class="product-block">
+    <div class="product-wrapp">
+        <div class="image">
+                                    <div class="icon">
+                                    <span class="new-icon"><span>New</span></span>
+                            </div>
+        
+                <div class="product-image">
+            <a href="http://localhost/maruti/index.php/curabitur-consequat.html" title="  Curabitur consequat ">
+                <img                 src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus102.jpg"
+                alt="  Curabitur consequat " />
+            </a>
+                        <a class="hover-image" href="http://localhost/maruti/index.php/curabitur-consequat.html">
+                                <img src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus100.jpg" width="280" height="423" alt="  Curabitur consequat " />
+                                </a>
+                            </div>
+
+                                    <div class="quickview hidden-sm hidden-xs">
+                                <div class="display-onhover quickview-wrapper">
+                                        <a href='http://localhost/maruti/index.php/ajax/quickview/view/id/1/' class='fancybox-play tooltip_container button' data-ftype='iframe' data-hideOnContentClick="true" data-overlayOpacity="true" data-width="60%" data-height="75%" data-scrolling="yes" data-show-close-button="true" data-verlay-opacity="0.8" data-show-overlay="true" id='quickview-fancybox1172111452175496'>
+                                                                        &nbsp;<i class="fa fa-search-plus"></i>&nbsp;<span class="hidden-xs">Quickview</span>                        
+                    </a>
+                                    </div>
+                            </div>
+                    </div>
+
+        <div class="product-info">
+            <div class="actions">
+                                                                                                
+                                                <div class="display-onhover addtocart-wrapper">
+                                                                                                                <button type="button" title="Add to Cart" class="button btn-cart ajx-cart" onclick="setLocationAjax('http://localhost/maruti/index.php/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/product/1/form_key/8PtpZxONQnnDefFC/','1')">&nbsp;<i class="fa  fa-shopping-cart"></i>&nbsp;Add To Cart</button>
+                                                                                                                    </div>
+                                        
+                                                                                <div class="display-onhover addtolink-wrapper">
+                                                
+                                                                                                                        
+                                                                                                                        
+                        <ul class="add-to-links">
+                                                            <li>
+                                    <a href="http://localhost/maruti/index.php/wishlist/index/add/product/1/form_key/8PtpZxONQnnDefFC/" class="link-wishlist">
+                                        &nbsp;<i class="fa fa-heart-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                                                        <li class="hidden-xs">
+                                    <span class="separator">|</span>
+                                    <a href="http://localhost/maruti/index.php/catalog/product_compare/add/product/1/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/form_key/8PtpZxONQnnDefFC/" class="link-compare">
+                                        &nbsp;<i class="fa fa-files-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                    </ul>
+                                            </div>
+                                                        </div>
+
+                                                                <div class="display-onhover name-wrapper">
+                                                            <h3 class="product-name"><a href="http://localhost/maruti/index.php/curabitur-consequat.html" title="  Curabitur consequat ">  Curabitur consequat </a></h3>
+                                    </div>
+                                
+                
+                                                                <div class="display-onhover price-wrapper">
+                                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-1172111452175496">
+                                            <span class="price">₹132.00</span>                                    </span>
+                        
+        </div>
+
+                                    </div>
+                                
+                                                                <div class="display-onhover rating-wrapper">
+                                                                            <div class="rating-box">
+                <div class="rating" style="width:87%"></div>
+            </div>
+                <div class="rating-links">
+            <a href="http://localhost/maruti/index.php/review/product/list/id/1/">1 Review(s)</a>
+            <span class="separator">|</span>
+            <a href="http://localhost/maruti/index.php/review/product/list/id/1/#review-form">Add Your Review</a>
+        </div>
+                                            </div>
+                                
+                                
+                                                        </div>
+            </div>
+        </div>                                            <!-- End Product Item -->
+                                            
+                                </div>
+
+                                                                                                                                        <div class="item product-item products-grid no-margin  equal-height hover-effect single-line-name" >
+
+                                                                                                            <!-- Product Item -->
+                                                    <div class="product-block">
+    <div class="product-wrapp">
+        <div class="image">
+                                    <div class="icon">
+                                    <span class="new-icon"><span>New</span></span>
+                            </div>
+        
+                <div class="product-image">
+            <a href="http://localhost/maruti/index.php/tori-tank-group.html" title="Tori tank group">
+                <img                 src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus120_1.jpg"
+                alt="Tori tank group" />
+            </a>
+                        <a class="hover-image" href="http://localhost/maruti/index.php/tori-tank-group.html">
+                                <img src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus121_1.jpg" width="280" height="423" alt="Tori tank group" />
+                                </a>
+                            </div>
+
+                                    <div class="quickview hidden-sm hidden-xs">
+                                <div class="display-onhover quickview-wrapper">
+                                        <a href='http://localhost/maruti/index.php/ajax/quickview/view/id/12/' class='fancybox-play tooltip_container button' data-ftype='iframe' data-hideOnContentClick="true" data-overlayOpacity="true" data-width="60%" data-height="75%" data-scrolling="yes" data-show-close-button="true" data-verlay-opacity="0.8" data-show-overlay="true" id='quickview-fancybox12190321452175496'>
+                                                                        &nbsp;<i class="fa fa-search-plus"></i>&nbsp;<span class="hidden-xs">Quickview</span>                        
+                    </a>
+                                    </div>
+                            </div>
+                    </div>
+
+        <div class="product-info">
+            <div class="actions">
+                                                                                                
+                                                <div class="display-onhover addtocart-wrapper">
+                                                                                                                <button type="button" title="Add to Cart" class="button btn-cart" onclick="showOptions('12')">&nbsp;<i class="fa  fa-shopping-cart"></i>&nbsp;Add To Cart</button>
+                        <a href='http://localhost/maruti/index.php/ajax/quickview/view/id/12/' class='fancybox-play tooltip_container hidden' data-ftype='iframe' data-hideOnContentClick="true" data-overlayOpacity="true" data-width="60%" data-height="75%" data-scrolling="yes" data-show-close-button="true" data-verlay-opacity="0.8" data-show-overlay="true" id='fancybox12190321452175496' ></a>
+                                                                                                                    </div>
+                                        
+                                                                                <div class="display-onhover addtolink-wrapper">
+                                                
+                                                                                                                        
+                                                                                                                        
+                        <ul class="add-to-links">
+                                                            <li>
+                                    <a href="http://localhost/maruti/index.php/wishlist/index/add/product/12/form_key/8PtpZxONQnnDefFC/" class="link-wishlist">
+                                        &nbsp;<i class="fa fa-heart-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                                                        <li class="hidden-xs">
+                                    <span class="separator">|</span>
+                                    <a href="http://localhost/maruti/index.php/catalog/product_compare/add/product/12/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/form_key/8PtpZxONQnnDefFC/" class="link-compare">
+                                        &nbsp;<i class="fa fa-files-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                    </ul>
+                                            </div>
+                                                        </div>
+
+                                                                <div class="display-onhover name-wrapper">
+                                                            <h3 class="product-name"><a href="http://localhost/maruti/index.php/tori-tank-group.html" title="Tori tank group">Tori tank group</a></h3>
+                                    </div>
+                                
+                
+                                                                <div class="display-onhover price-wrapper">
+                                        
+
+                <div class="price-box">
+            <p class="minimal-price">
+                                    <span class="price-label">Starting at:</span>
+                                                                        <span class="price" id="product-minimal-price-12190321452175496">
+                    ₹115.00                </span>
+                            </p>
+        </div>
+                                        </div>
+                                
+                                                                <div class="display-onhover rating-wrapper">
+                                                                            <div class="rating-box">
+                <div class="rating" style="width:93%"></div>
+            </div>
+                <div class="rating-links">
+            <a href="http://localhost/maruti/index.php/review/product/list/id/12/">2 Review(s)</a>
+            <span class="separator">|</span>
+            <a href="http://localhost/maruti/index.php/review/product/list/id/12/#review-form">Add Your Review</a>
+        </div>
+                                            </div>
+                                
+                                
+                                                        </div>
+            </div>
+        </div>                                            <!-- End Product Item -->
+                                            
+                                </div>
+
+                                                                            </div>
+
+                                            <div class="carousel-controls">
+                            <a class="owl-left left carousel-control" href="#owltabsproductcarousel213121452175496" data-slide="prev">
+                                <span class="fa fa-angle-left"></span>
+                            </a>
+                            <a class="owl-right right carousel-control" href="#owltabsproductcarousel213121452175496" data-slide="next">
+                                <span class="fa fa-angle-right"></span>
+                            </a>
+                        </div>
+                                    </div>
+            </div>
+                                            <div id="productlist_tab2289751452175496" class="tab-owlproductcarousel-content">
+                                
+                
+                <div class="box-products carousel slide owl-carousel-play" data-ride="owlcarousel">
+                    <div id="owltabsproductcarousel11741452175496"
+                        class="owl-carousel"
+                        data-slide-default="4"
+                        data-slide-desktop="1199,4"
+                        data-slide-desktop-small="979,3"
+                        data-slide-tablet="768, 2"
+                        data-slide-tablet-small="640, 2"
+                        data-slide-mobile="479, 1"
+                        data-slide-custom="false"
+                        data-slide-speed="500"
+                        data-auto="false"
+                        data-lazyload="false"
+                        data-navigation="false"
+                        data-pagination="true">
+
+                                                                                                                                <div class="item product-item products-grid no-margin  equal-height hover-effect single-line-name" >
+
+                                                                                                            <!-- Product Item -->
+                                                    <div class="product-block">
+    <div class="product-wrapp">
+        <div class="image">
+                                    <div class="icon">
+                                            <span class="onsale"><span>Sale</span></span>
+                                                <span class="new-icon"><span>New</span></span>
+                            </div>
+        
+                <div class="product-image">
+            <a href="http://localhost/maruti/index.php/slim-fit-dobby-oxford-shirt.html" title="Slim fit Dobby Oxford Shirt">
+                <img                 src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus118.jpg"
+                alt="Slim fit Dobby Oxford Shirt" />
+            </a>
+                        <a class="hover-image" href="http://localhost/maruti/index.php/slim-fit-dobby-oxford-shirt.html">
+                                <img src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus118.jpg" width="280" height="423" alt="Slim fit Dobby Oxford Shirt" />
+                                </a>
+                            </div>
+
+                                    <div class="quickview hidden-sm hidden-xs">
+                                <div class="display-onhover quickview-wrapper">
+                                        <a href='http://localhost/maruti/index.php/ajax/quickview/view/id/10/' class='fancybox-play tooltip_container button' data-ftype='iframe' data-hideOnContentClick="true" data-overlayOpacity="true" data-width="60%" data-height="75%" data-scrolling="yes" data-show-close-button="true" data-verlay-opacity="0.8" data-show-overlay="true" id='quickview-fancybox10225511452175496'>
+                                                                        &nbsp;<i class="fa fa-search-plus"></i>&nbsp;<span class="hidden-xs">Quickview</span>                        
+                    </a>
+                                    </div>
+                            </div>
+                    </div>
+
+        <div class="product-info">
+            <div class="actions">
+                                                                                                
+                                                <div class="display-onhover addtocart-wrapper">
+                                                                                                                <button type="button" title="Add to Cart" class="button btn-cart ajx-cart" onclick="setLocationAjax('http://localhost/maruti/index.php/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/product/10/form_key/8PtpZxONQnnDefFC/','10')">&nbsp;<i class="fa  fa-shopping-cart"></i>&nbsp;Add To Cart</button>
+                                                                                                                    </div>
+                                        
+                                                                                <div class="display-onhover addtolink-wrapper">
+                                                
+                                                                                                                        
+                                                                                                                        
+                        <ul class="add-to-links">
+                                                            <li>
+                                    <a href="http://localhost/maruti/index.php/wishlist/index/add/product/10/form_key/8PtpZxONQnnDefFC/" class="link-wishlist">
+                                        &nbsp;<i class="fa fa-heart-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                                                        <li class="hidden-xs">
+                                    <span class="separator">|</span>
+                                    <a href="http://localhost/maruti/index.php/catalog/product_compare/add/product/10/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/form_key/8PtpZxONQnnDefFC/" class="link-compare">
+                                        &nbsp;<i class="fa fa-files-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                    </ul>
+                                            </div>
+                                                        </div>
+
+                                                                <div class="display-onhover name-wrapper">
+                                                            <h3 class="product-name"><a href="http://localhost/maruti/index.php/slim-fit-dobby-oxford-shirt.html" title="Slim fit Dobby Oxford Shirt">Slim fit Dobby Oxford Shirt</a></h3>
+                                    </div>
+                                
+                
+                                                                <div class="display-onhover price-wrapper">
+                                        
+
+                        
+    <div class="price-box">
+                                            
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-10225511452175496">
+                    ₹125.00                </span>
+            </p>
+
+                            <p class="special-price">
+                    <span class="price-label">Special Price</span>
+                <span class="price" id="product-price-10225511452175496">
+                    ₹120.00                </span>
+                </p>
+                    
+    
+        </div>
+
+                                    </div>
+                                
+                                                                <div class="display-onhover rating-wrapper">
+                                            <div class="ratings">
+        <div class="rating-box">
+            <div class="rating"></div>
+        </div>
+        <div class="rating-links">
+            <a href="http://localhost/maruti/index.php/review/product/list/id/10/">0 Review</a>
+            <span class="separator">|</span>
+            <a href="http://localhost/maruti/index.php/review/product/list/id/10/#review-form">Add Your Review</a>
+        </div>
+    </div>
+                                    </div>
+                                
+                                
+                                                        </div>
+            </div>
+        </div>                                            <!-- End Product Item -->
+                                            
+                                </div>
+
+                                                                                                                                        <div class="item product-item products-grid no-margin  equal-height hover-effect single-line-name" >
+
+                                                                                                            <!-- Product Item -->
+                                                    <div class="product-block">
+    <div class="product-wrapp">
+        <div class="image">
+                                    <div class="icon">
+                                            <span class="onsale"><span>Sale</span></span>
+                                                <span class="new-icon"><span>New</span></span>
+                            </div>
+        
+                <div class="product-image">
+            <a href="http://localhost/maruti/index.php/pullover-batwing-sleeve-zigzag.html" title="Pullover Batwing Sleeve Zigzag">
+                <img                 src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus110.jpg"
+                alt="Pullover Batwing Sleeve Zigzag" />
+            </a>
+                        <a class="hover-image" href="http://localhost/maruti/index.php/pullover-batwing-sleeve-zigzag.html">
+                                <img src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus111.jpg" width="280" height="423" alt="Pullover Batwing Sleeve Zigzag" />
+                                </a>
+                            </div>
+
+                                    <div class="quickview hidden-sm hidden-xs">
+                                <div class="display-onhover quickview-wrapper">
+                                        <a href='http://localhost/maruti/index.php/ajax/quickview/view/id/4/' class='fancybox-play tooltip_container button' data-ftype='iframe' data-hideOnContentClick="true" data-overlayOpacity="true" data-width="60%" data-height="75%" data-scrolling="yes" data-show-close-button="true" data-verlay-opacity="0.8" data-show-overlay="true" id='quickview-fancybox4133161452175496'>
+                                                                        &nbsp;<i class="fa fa-search-plus"></i>&nbsp;<span class="hidden-xs">Quickview</span>                        
+                    </a>
+                                    </div>
+                            </div>
+                    </div>
+
+        <div class="product-info">
+            <div class="actions">
+                                                                                                
+                                                <div class="display-onhover addtocart-wrapper">
+                                                                                                                <button type="button" title="Add to Cart" class="button btn-cart ajx-cart" onclick="setLocationAjax('http://localhost/maruti/index.php/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/product/4/form_key/8PtpZxONQnnDefFC/','4')">&nbsp;<i class="fa  fa-shopping-cart"></i>&nbsp;Add To Cart</button>
+                                                                                                                    </div>
+                                        
+                                                                                <div class="display-onhover addtolink-wrapper">
+                                                
+                                                                                                                        
+                                                                                                                        
+                        <ul class="add-to-links">
+                                                            <li>
+                                    <a href="http://localhost/maruti/index.php/wishlist/index/add/product/4/form_key/8PtpZxONQnnDefFC/" class="link-wishlist">
+                                        &nbsp;<i class="fa fa-heart-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                                                        <li class="hidden-xs">
+                                    <span class="separator">|</span>
+                                    <a href="http://localhost/maruti/index.php/catalog/product_compare/add/product/4/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/form_key/8PtpZxONQnnDefFC/" class="link-compare">
+                                        &nbsp;<i class="fa fa-files-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                    </ul>
+                                            </div>
+                                                        </div>
+
+                                                                <div class="display-onhover name-wrapper">
+                                                            <h3 class="product-name"><a href="http://localhost/maruti/index.php/pullover-batwing-sleeve-zigzag.html" title="Pullover Batwing Sleeve Zigzag">Pullover Batwing Sleeve Zigzag</a></h3>
+                                    </div>
+                                
+                
+                                                                <div class="display-onhover price-wrapper">
+                                        
+
+                        
+    <div class="price-box">
+                                            
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-4133161452175496">
+                    ₹199.00                </span>
+            </p>
+
+                            <p class="special-price">
+                    <span class="price-label">Special Price</span>
+                <span class="price" id="product-price-4133161452175496">
+                    ₹185.00                </span>
+                </p>
+                    
+    
+        </div>
+
+                                    </div>
+                                
+                                                                <div class="display-onhover rating-wrapper">
+                                            <div class="ratings">
+        <div class="rating-box">
+            <div class="rating"></div>
+        </div>
+        <div class="rating-links">
+            <a href="http://localhost/maruti/index.php/review/product/list/id/4/">0 Review</a>
+            <span class="separator">|</span>
+            <a href="http://localhost/maruti/index.php/review/product/list/id/4/#review-form">Add Your Review</a>
+        </div>
+    </div>
+                                    </div>
+                                
+                                
+                                                        </div>
+            </div>
+        </div>                                            <!-- End Product Item -->
+                                            
+                                </div>
+
+                                                                                                                                        <div class="item product-item products-grid no-margin  equal-height hover-effect single-line-name" >
+
+                                                                                                            <!-- Product Item -->
+                                                    <div class="product-block">
+    <div class="product-wrapp">
+        <div class="image">
+                                    <div class="icon">
+                                    <span class="new-icon"><span>New</span></span>
+                            </div>
+        
+                <div class="product-image">
+            <a href="http://localhost/maruti/index.php/women-spring-clothes-configurable.html" title="Women Spring Clothes Configurable">
+                <img                 src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus100_1.jpg"
+                alt="Women Spring Clothes Configurable" />
+            </a>
+                        <a class="hover-image" href="http://localhost/maruti/index.php/women-spring-clothes-configurable.html">
+                                <img src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus111_1.jpg" width="280" height="423" alt="Women Spring Clothes Configurable" />
+                                </a>
+                            </div>
+
+                                    <div class="quickview hidden-sm hidden-xs">
+                                <div class="display-onhover quickview-wrapper">
+                                        <a href='http://localhost/maruti/index.php/ajax/quickview/view/id/14/' class='fancybox-play tooltip_container button' data-ftype='iframe' data-hideOnContentClick="true" data-overlayOpacity="true" data-width="60%" data-height="75%" data-scrolling="yes" data-show-close-button="true" data-verlay-opacity="0.8" data-show-overlay="true" id='quickview-fancybox1435651452175496'>
+                                                                        &nbsp;<i class="fa fa-search-plus"></i>&nbsp;<span class="hidden-xs">Quickview</span>                        
+                    </a>
+                                    </div>
+                            </div>
+                    </div>
+
+        <div class="product-info">
+            <div class="actions">
+                                                                                                
+                                                <div class="display-onhover addtocart-wrapper">
+                                                                                                                <button type="button" title="Add to Cart" class="button btn-cart" onclick="showOptions('14')">&nbsp;<i class="fa  fa-shopping-cart"></i>&nbsp;Add To Cart</button>
+                        <a href='http://localhost/maruti/index.php/ajax/quickview/view/id/14/' class='fancybox-play tooltip_container hidden' data-ftype='iframe' data-hideOnContentClick="true" data-overlayOpacity="true" data-width="60%" data-height="75%" data-scrolling="yes" data-show-close-button="true" data-verlay-opacity="0.8" data-show-overlay="true" id='fancybox1435651452175496' ></a>
+                                                                                                                    </div>
+                                        
+                                                                                <div class="display-onhover addtolink-wrapper">
+                                                
+                                                                                                                        
+                                                                                                                        
+                        <ul class="add-to-links">
+                                                            <li>
+                                    <a href="http://localhost/maruti/index.php/wishlist/index/add/product/14/form_key/8PtpZxONQnnDefFC/" class="link-wishlist">
+                                        &nbsp;<i class="fa fa-heart-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                                                        <li class="hidden-xs">
+                                    <span class="separator">|</span>
+                                    <a href="http://localhost/maruti/index.php/catalog/product_compare/add/product/14/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/form_key/8PtpZxONQnnDefFC/" class="link-compare">
+                                        &nbsp;<i class="fa fa-files-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                    </ul>
+                                            </div>
+                                                        </div>
+
+                                                                <div class="display-onhover name-wrapper">
+                                                            <h3 class="product-name"><a href="http://localhost/maruti/index.php/women-spring-clothes-configurable.html" title="Women Spring Clothes Configurable">Women Spring Clothes Configurable</a></h3>
+                                    </div>
+                                
+                
+                                                                <div class="display-onhover price-wrapper">
+                                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-1435651452175496">
+                                            <span class="price">₹125.00</span>                                    </span>
+                        
+        </div>
+
+                                    </div>
+                                
+                                                                <div class="display-onhover rating-wrapper">
+                                                                            <div class="rating-box">
+                <div class="rating" style="width:80%"></div>
+            </div>
+                <div class="rating-links">
+            <a href="http://localhost/maruti/index.php/review/product/list/id/14/">1 Review(s)</a>
+            <span class="separator">|</span>
+            <a href="http://localhost/maruti/index.php/review/product/list/id/14/#review-form">Add Your Review</a>
+        </div>
+                                            </div>
+                                
+                                
+                                                        </div>
+            </div>
+        </div>                                            <!-- End Product Item -->
+                                            
+                                </div>
+
+                                                                                                                                        <div class="item product-item products-grid no-margin  equal-height hover-effect single-line-name" >
+
+                                                                                                            <!-- Product Item -->
+                                                    <div class="product-block">
+    <div class="product-wrapp">
+        <div class="image">
+                                    <div class="icon">
+                                    <span class="new-icon"><span>New</span></span>
+                            </div>
+        
+                <div class="product-image">
+            <a href="http://localhost/maruti/index.php/sed-vestibulum-massa.html" title="Sed vestibulum massa">
+                <img                 src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus108.jpg"
+                alt="Sed vestibulum massa" />
+            </a>
+                        <a class="hover-image" href="http://localhost/maruti/index.php/sed-vestibulum-massa.html">
+                                <img src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus108.jpg" width="280" height="423" alt="Sed vestibulum massa" />
+                                </a>
+                            </div>
+
+                                    <div class="quickview hidden-sm hidden-xs">
+                                <div class="display-onhover quickview-wrapper">
+                                        <a href='http://localhost/maruti/index.php/ajax/quickview/view/id/3/' class='fancybox-play tooltip_container button' data-ftype='iframe' data-hideOnContentClick="true" data-overlayOpacity="true" data-width="60%" data-height="75%" data-scrolling="yes" data-show-close-button="true" data-verlay-opacity="0.8" data-show-overlay="true" id='quickview-fancybox3215381452175497'>
+                                                                        &nbsp;<i class="fa fa-search-plus"></i>&nbsp;<span class="hidden-xs">Quickview</span>                        
+                    </a>
+                                    </div>
+                            </div>
+                    </div>
+
+        <div class="product-info">
+            <div class="actions">
+                                                                                                
+                                                <div class="display-onhover addtocart-wrapper">
+                                                                                                                <button type="button" title="Add to Cart" class="button btn-cart ajx-cart" onclick="setLocationAjax('http://localhost/maruti/index.php/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/product/3/form_key/8PtpZxONQnnDefFC/','3')">&nbsp;<i class="fa  fa-shopping-cart"></i>&nbsp;Add To Cart</button>
+                                                                                                                    </div>
+                                        
+                                                                                <div class="display-onhover addtolink-wrapper">
+                                                
+                                                                                                                        
+                                                                                                                        
+                        <ul class="add-to-links">
+                                                            <li>
+                                    <a href="http://localhost/maruti/index.php/wishlist/index/add/product/3/form_key/8PtpZxONQnnDefFC/" class="link-wishlist">
+                                        &nbsp;<i class="fa fa-heart-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                                                        <li class="hidden-xs">
+                                    <span class="separator">|</span>
+                                    <a href="http://localhost/maruti/index.php/catalog/product_compare/add/product/3/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/form_key/8PtpZxONQnnDefFC/" class="link-compare">
+                                        &nbsp;<i class="fa fa-files-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                    </ul>
+                                            </div>
+                                                        </div>
+
+                                                                <div class="display-onhover name-wrapper">
+                                                            <h3 class="product-name"><a href="http://localhost/maruti/index.php/sed-vestibulum-massa.html" title="Sed vestibulum massa">Sed vestibulum massa</a></h3>
+                                    </div>
+                                
+                
+                                                                <div class="display-onhover price-wrapper">
+                                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-3215381452175497">
+                                            <span class="price">₹132.00</span>                                    </span>
+                        
+        </div>
+
+                                    </div>
+                                
+                                                                <div class="display-onhover rating-wrapper">
+                                                                            <div class="rating-box">
+                <div class="rating" style="width:80%"></div>
+            </div>
+                <div class="rating-links">
+            <a href="http://localhost/maruti/index.php/review/product/list/id/3/">1 Review(s)</a>
+            <span class="separator">|</span>
+            <a href="http://localhost/maruti/index.php/review/product/list/id/3/#review-form">Add Your Review</a>
+        </div>
+                                            </div>
+                                
+                                
+                                                        </div>
+            </div>
+        </div>                                            <!-- End Product Item -->
+                                            
+                                </div>
+
+                                                                                                                                        <div class="item product-item products-grid no-margin  equal-height hover-effect single-line-name" >
+
+                                                                                                            <!-- Product Item -->
+                                                    <div class="product-block">
+    <div class="product-wrapp">
+        <div class="image">
+                                    <div class="icon">
+                                            <span class="onsale"><span>Sale</span></span>
+                                                <span class="new-icon"><span>New</span></span>
+                            </div>
+        
+                <div class="product-image">
+            <a href="http://localhost/maruti/index.php/core-striped-sport-shirt.html" title="Core Striped Sport Shirt">
+                <img                 src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus115.jpg"
+                alt="Core Striped Sport Shirt" />
+            </a>
+                        <a class="hover-image" href="http://localhost/maruti/index.php/core-striped-sport-shirt.html">
+                                <img src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus116.jpg" width="280" height="423" alt="Core Striped Sport Shirt" />
+                                </a>
+                            </div>
+
+                                    <div class="quickview hidden-sm hidden-xs">
+                                <div class="display-onhover quickview-wrapper">
+                                        <a href='http://localhost/maruti/index.php/ajax/quickview/view/id/9/' class='fancybox-play tooltip_container button' data-ftype='iframe' data-hideOnContentClick="true" data-overlayOpacity="true" data-width="60%" data-height="75%" data-scrolling="yes" data-show-close-button="true" data-verlay-opacity="0.8" data-show-overlay="true" id='quickview-fancybox9242431452175497'>
+                                                                        &nbsp;<i class="fa fa-search-plus"></i>&nbsp;<span class="hidden-xs">Quickview</span>                        
+                    </a>
+                                    </div>
+                            </div>
+                    </div>
+
+        <div class="product-info">
+            <div class="actions">
+                                                                                                
+                                                <div class="display-onhover addtocart-wrapper">
+                                                                                                                <button type="button" title="Add to Cart" class="button btn-cart ajx-cart" onclick="setLocationAjax('http://localhost/maruti/index.php/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/product/9/form_key/8PtpZxONQnnDefFC/','9')">&nbsp;<i class="fa  fa-shopping-cart"></i>&nbsp;Add To Cart</button>
+                                                                                                                    </div>
+                                        
+                                                                                <div class="display-onhover addtolink-wrapper">
+                                                
+                                                                                                                        
+                                                                                                                        
+                        <ul class="add-to-links">
+                                                            <li>
+                                    <a href="http://localhost/maruti/index.php/wishlist/index/add/product/9/form_key/8PtpZxONQnnDefFC/" class="link-wishlist">
+                                        &nbsp;<i class="fa fa-heart-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                                                        <li class="hidden-xs">
+                                    <span class="separator">|</span>
+                                    <a href="http://localhost/maruti/index.php/catalog/product_compare/add/product/9/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/form_key/8PtpZxONQnnDefFC/" class="link-compare">
+                                        &nbsp;<i class="fa fa-files-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                    </ul>
+                                            </div>
+                                                        </div>
+
+                                                                <div class="display-onhover name-wrapper">
+                                                            <h3 class="product-name"><a href="http://localhost/maruti/index.php/core-striped-sport-shirt.html" title="Core Striped Sport Shirt">Core Striped Sport Shirt</a></h3>
+                                    </div>
+                                
+                
+                                                                <div class="display-onhover price-wrapper">
+                                        
+
+                        
+    <div class="price-box">
+                                            
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-9242431452175497">
+                    ₹165.00                </span>
+            </p>
+
+                            <p class="special-price">
+                    <span class="price-label">Special Price</span>
+                <span class="price" id="product-price-9242431452175497">
+                    ₹155.00                </span>
+                </p>
+                    
+    
+        </div>
+
+                                    </div>
+                                
+                                                                <div class="display-onhover rating-wrapper">
+                                            <div class="ratings">
+        <div class="rating-box">
+            <div class="rating"></div>
+        </div>
+        <div class="rating-links">
+            <a href="http://localhost/maruti/index.php/review/product/list/id/9/">0 Review</a>
+            <span class="separator">|</span>
+            <a href="http://localhost/maruti/index.php/review/product/list/id/9/#review-form">Add Your Review</a>
+        </div>
+    </div>
+                                    </div>
+                                
+                                
+                                                        </div>
+            </div>
+        </div>                                            <!-- End Product Item -->
+                                            
+                                </div>
+
+                                                                                                                                        <div class="item product-item products-grid no-margin  equal-height hover-effect single-line-name" >
+
+                                                                                                            <!-- Product Item -->
+                                                    <div class="product-block">
+    <div class="product-wrapp">
+        <div class="image">
+                                    <div class="icon">
+                                    <span class="new-icon"><span>New</span></span>
+                            </div>
+        
+                <div class="product-image">
+            <a href="http://localhost/maruti/index.php/ut-egestas-ante.html" title="Ut egestas ante ">
+                <img                 src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus104.jpg"
+                alt="Ut egestas ante " />
+            </a>
+                        <a class="hover-image" href="http://localhost/maruti/index.php/ut-egestas-ante.html">
+                                <img src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus105.jpg" width="280" height="423" alt="Ut egestas ante " />
+                                </a>
+                            </div>
+
+                                    <div class="quickview hidden-sm hidden-xs">
+                                <div class="display-onhover quickview-wrapper">
+                                        <a href='http://localhost/maruti/index.php/ajax/quickview/view/id/2/' class='fancybox-play tooltip_container button' data-ftype='iframe' data-hideOnContentClick="true" data-overlayOpacity="true" data-width="60%" data-height="75%" data-scrolling="yes" data-show-close-button="true" data-verlay-opacity="0.8" data-show-overlay="true" id='quickview-fancybox231841452175497'>
+                                                                        &nbsp;<i class="fa fa-search-plus"></i>&nbsp;<span class="hidden-xs">Quickview</span>                        
+                    </a>
+                                    </div>
+                            </div>
+                    </div>
+
+        <div class="product-info">
+            <div class="actions">
+                                                                                                
+                                                <div class="display-onhover addtocart-wrapper">
+                                                                                                                <button type="button" title="Add to Cart" class="button btn-cart ajx-cart" onclick="setLocationAjax('http://localhost/maruti/index.php/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/product/2/form_key/8PtpZxONQnnDefFC/','2')">&nbsp;<i class="fa  fa-shopping-cart"></i>&nbsp;Add To Cart</button>
+                                                                                                                    </div>
+                                        
+                                                                                <div class="display-onhover addtolink-wrapper">
+                                                
+                                                                                                                        
+                                                                                                                        
+                        <ul class="add-to-links">
+                                                            <li>
+                                    <a href="http://localhost/maruti/index.php/wishlist/index/add/product/2/form_key/8PtpZxONQnnDefFC/" class="link-wishlist">
+                                        &nbsp;<i class="fa fa-heart-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                                                        <li class="hidden-xs">
+                                    <span class="separator">|</span>
+                                    <a href="http://localhost/maruti/index.php/catalog/product_compare/add/product/2/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/form_key/8PtpZxONQnnDefFC/" class="link-compare">
+                                        &nbsp;<i class="fa fa-files-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                    </ul>
+                                            </div>
+                                                        </div>
+
+                                                                <div class="display-onhover name-wrapper">
+                                                            <h3 class="product-name"><a href="http://localhost/maruti/index.php/ut-egestas-ante.html" title="Ut egestas ante ">Ut egestas ante </a></h3>
+                                    </div>
+                                
+                
+                                                                <div class="display-onhover price-wrapper">
+                                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-231841452175497">
+                                            <span class="price">₹123.00</span>                                    </span>
+                        
+        </div>
+
+                                    </div>
+                                
+                                                                <div class="display-onhover rating-wrapper">
+                                                                            <div class="rating-box">
+                <div class="rating" style="width:77%"></div>
+            </div>
+                <div class="rating-links">
+            <a href="http://localhost/maruti/index.php/review/product/list/id/2/">2 Review(s)</a>
+            <span class="separator">|</span>
+            <a href="http://localhost/maruti/index.php/review/product/list/id/2/#review-form">Add Your Review</a>
+        </div>
+                                            </div>
+                                
+                                
+                                                        </div>
+            </div>
+        </div>                                            <!-- End Product Item -->
+                                            
+                                </div>
+
+                                                                                                                                        <div class="item product-item products-grid no-margin  equal-height hover-effect single-line-name" >
+
+                                                                                                            <!-- Product Item -->
+                                                    <div class="product-block">
+    <div class="product-wrapp">
+        <div class="image">
+                                    <div class="icon">
+                                    <span class="new-icon"><span>New</span></span>
+                            </div>
+        
+                <div class="product-image">
+            <a href="http://localhost/maruti/index.php/tori-tank-group.html" title="Tori tank group">
+                <img                 src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus120_1.jpg"
+                alt="Tori tank group" />
+            </a>
+                        <a class="hover-image" href="http://localhost/maruti/index.php/tori-tank-group.html">
+                                <img src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus121_1.jpg" width="280" height="423" alt="Tori tank group" />
+                                </a>
+                            </div>
+
+                                    <div class="quickview hidden-sm hidden-xs">
+                                <div class="display-onhover quickview-wrapper">
+                                        <a href='http://localhost/maruti/index.php/ajax/quickview/view/id/12/' class='fancybox-play tooltip_container button' data-ftype='iframe' data-hideOnContentClick="true" data-overlayOpacity="true" data-width="60%" data-height="75%" data-scrolling="yes" data-show-close-button="true" data-verlay-opacity="0.8" data-show-overlay="true" id='quickview-fancybox1271451452175497'>
+                                                                        &nbsp;<i class="fa fa-search-plus"></i>&nbsp;<span class="hidden-xs">Quickview</span>                        
+                    </a>
+                                    </div>
+                            </div>
+                    </div>
+
+        <div class="product-info">
+            <div class="actions">
+                                                                                                
+                                                <div class="display-onhover addtocart-wrapper">
+                                                                                                                <button type="button" title="Add to Cart" class="button btn-cart" onclick="showOptions('12')">&nbsp;<i class="fa  fa-shopping-cart"></i>&nbsp;Add To Cart</button>
+                        <a href='http://localhost/maruti/index.php/ajax/quickview/view/id/12/' class='fancybox-play tooltip_container hidden' data-ftype='iframe' data-hideOnContentClick="true" data-overlayOpacity="true" data-width="60%" data-height="75%" data-scrolling="yes" data-show-close-button="true" data-verlay-opacity="0.8" data-show-overlay="true" id='fancybox1271451452175497' ></a>
+                                                                                                                    </div>
+                                        
+                                                                                <div class="display-onhover addtolink-wrapper">
+                                                
+                                                                                                                        
+                                                                                                                        
+                        <ul class="add-to-links">
+                                                            <li>
+                                    <a href="http://localhost/maruti/index.php/wishlist/index/add/product/12/form_key/8PtpZxONQnnDefFC/" class="link-wishlist">
+                                        &nbsp;<i class="fa fa-heart-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                                                        <li class="hidden-xs">
+                                    <span class="separator">|</span>
+                                    <a href="http://localhost/maruti/index.php/catalog/product_compare/add/product/12/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/form_key/8PtpZxONQnnDefFC/" class="link-compare">
+                                        &nbsp;<i class="fa fa-files-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                    </ul>
+                                            </div>
+                                                        </div>
+
+                                                                <div class="display-onhover name-wrapper">
+                                                            <h3 class="product-name"><a href="http://localhost/maruti/index.php/tori-tank-group.html" title="Tori tank group">Tori tank group</a></h3>
+                                    </div>
+                                
+                
+                                                                <div class="display-onhover price-wrapper">
+                                        
+
+                <div class="price-box">
+            <p class="minimal-price">
+                                    <span class="price-label">Starting at:</span>
+                                                                        <span class="price" id="product-minimal-price-1271451452175497">
+                    ₹115.00                </span>
+                            </p>
+        </div>
+                                        </div>
+                                
+                                                                <div class="display-onhover rating-wrapper">
+                                                                            <div class="rating-box">
+                <div class="rating" style="width:93%"></div>
+            </div>
+                <div class="rating-links">
+            <a href="http://localhost/maruti/index.php/review/product/list/id/12/">2 Review(s)</a>
+            <span class="separator">|</span>
+            <a href="http://localhost/maruti/index.php/review/product/list/id/12/#review-form">Add Your Review</a>
+        </div>
+                                            </div>
+                                
+                                
+                                                        </div>
+            </div>
+        </div>                                            <!-- End Product Item -->
+                                            
+                                </div>
+
+                                                                                                                                        <div class="item product-item products-grid no-margin  equal-height hover-effect single-line-name" >
+
+                                                                                                            <!-- Product Item -->
+                                                    <div class="product-block">
+    <div class="product-wrapp">
+        <div class="image">
+                                    <div class="icon">
+                                            <span class="onsale"><span>Sale</span></span>
+                                                <span class="new-icon"><span>New</span></span>
+                            </div>
+        
+                <div class="product-image">
+            <a href="http://localhost/maruti/index.php/plaid-shirt.html" title="Plaid Shirt">
+                <img                 src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus113.jpg"
+                alt="Plaid Shirt" />
+            </a>
+                        <a class="hover-image" href="http://localhost/maruti/index.php/plaid-shirt.html">
+                                <img src="http://localhost/maruti/media/catalog/product/cache/1/small_image/280x423/9df78eab33525d08d6e5fb8d27136e95/v/e/venus112.jpg" width="280" height="423" alt="Plaid Shirt" />
+                                </a>
+                            </div>
+
+                                    <div class="quickview hidden-sm hidden-xs">
+                                <div class="display-onhover quickview-wrapper">
+                                        <a href='http://localhost/maruti/index.php/ajax/quickview/view/id/8/' class='fancybox-play tooltip_container button' data-ftype='iframe' data-hideOnContentClick="true" data-overlayOpacity="true" data-width="60%" data-height="75%" data-scrolling="yes" data-show-close-button="true" data-verlay-opacity="0.8" data-show-overlay="true" id='quickview-fancybox842061452175497'>
+                                                                        &nbsp;<i class="fa fa-search-plus"></i>&nbsp;<span class="hidden-xs">Quickview</span>                        
+                    </a>
+                                    </div>
+                            </div>
+                    </div>
+
+        <div class="product-info">
+            <div class="actions">
+                                                                                                
+                                                <div class="display-onhover addtocart-wrapper">
+                                                                                                                <button type="button" title="Add to Cart" class="button btn-cart ajx-cart" onclick="setLocationAjax('http://localhost/maruti/index.php/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/product/8/form_key/8PtpZxONQnnDefFC/','8')">&nbsp;<i class="fa  fa-shopping-cart"></i>&nbsp;Add To Cart</button>
+                                                                                                                    </div>
+                                        
+                                                                                <div class="display-onhover addtolink-wrapper">
+                                                
+                                                                                                                        
+                                                                                                                        
+                        <ul class="add-to-links">
+                                                            <li>
+                                    <a href="http://localhost/maruti/index.php/wishlist/index/add/product/8/form_key/8PtpZxONQnnDefFC/" class="link-wishlist">
+                                        &nbsp;<i class="fa fa-heart-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                                                        <li class="hidden-xs">
+                                    <span class="separator">|</span>
+                                    <a href="http://localhost/maruti/index.php/catalog/product_compare/add/product/8/uenc/aHR0cDovL2xvY2FsaG9zdC9tYXJ1dGkv/form_key/8PtpZxONQnnDefFC/" class="link-compare">
+                                        &nbsp;<i class="fa fa-files-o"></i>&nbsp;                                    </a>
+                                </li>
+                                                    </ul>
+                                            </div>
+                                                        </div>
+
+                                                                <div class="display-onhover name-wrapper">
+                                                            <h3 class="product-name"><a href="http://localhost/maruti/index.php/plaid-shirt.html" title="Plaid Shirt">Plaid Shirt</a></h3>
+                                    </div>
+                                
+                
+                                                                <div class="display-onhover price-wrapper">
+                                        
+
+                        
+    <div class="price-box">
+                                            
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-842061452175497">
+                    ₹156.00                </span>
+            </p>
+
+                            <p class="special-price">
+                    <span class="price-label">Special Price</span>
+                <span class="price" id="product-price-842061452175497">
+                    ₹150.00                </span>
+                </p>
+                    
+    
+        </div>
+
+                                    </div>
+                                
+                                                                <div class="display-onhover rating-wrapper">
+                                            <div class="ratings">
+        <div class="rating-box">
+            <div class="rating"></div>
+        </div>
+        <div class="rating-links">
+            <a href="http://localhost/maruti/index.php/review/product/list/id/8/">0 Review</a>
+            <span class="separator">|</span>
+            <a href="http://localhost/maruti/index.php/review/product/list/id/8/#review-form">Add Your Review</a>
+        </div>
+    </div>
+                                    </div>
+                                
+                                
+                                                        </div>
+            </div>
+        </div>                                            <!-- End Product Item -->
+                                            
+                                </div>
+
+                                                                            </div>
+
+                                            <div class="carousel-controls">
+                            <a class="owl-left left carousel-control" href="#owltabsproductcarousel11741452175496" data-slide="prev">
+                                <span class="fa fa-angle-left"></span>
+                            </a>
+                            <a class="owl-right right carousel-control" href="#owltabsproductcarousel11741452175496" data-slide="next">
+                                <span class="fa fa-angle-right"></span>
+                            </a>
+                        </div>
+                                    </div>
+            </div>
+                                </div>
+    </div>
+</div>
+</div>

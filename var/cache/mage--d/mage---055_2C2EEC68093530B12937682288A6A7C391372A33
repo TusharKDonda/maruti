@@ -1,0 +1,17 @@
+<div class="widget-links block">
+	<div class="block-title"><strong> <span> Information </span> </strong> </div>
+	<div class="block-content widget-inner">
+		<div class="panel-group">
+			<ul class="nav-links">
+				<li><a href="http://localhost/maruti/index.php/about-magento-demo-store/">About Us</a></li>
+				<li><a href="http://localhost/maruti/index.php/contacts/">Contact Us</a></li>
+				<li><a href="http://localhost/maruti/index.php/customer-service/">Customer Service</a></li>
+				<li><a href="http://localhost/maruti/index.php/privacy-policy-cookie-restriction-mode/">Privacy Policy</a></li>
+				<li><a href="http://localhost/maruti/index.php/sales/guest/form/">Orders and Return</a></li>
+				<li><a href="http://localhost/maruti/index.php/catalogsearch/advanced/">Advanced search</a></li>
+				<li><a href="http://localhost/maruti/index.php/catalogsearch/term/popular/">Search terms</a></li>
+				<li><a href="http://localhost/maruti/index.php/catalog/seo_sitemap/category/">Site Map</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

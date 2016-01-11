@@ -1,0 +1,17 @@
+<div class="row">
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12"></div>
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+<div class="widget-sociallinks block">
+<div class="block-title"><strong><span>Social</span></strong></div>
+<div class="widget-inner block-content">
+<ul>
+<li><a href="http://facebook.com/venustheme"><i class="fa fa-facebook">&nbsp;</i> <span> Facebook </span> </a></li>
+<li><a href="https://twitter.com/venustheme"><i class="fa fa-twitter">&nbsp; </i> <span>Twitter </span> </a></li>
+<li><a href="#"><i class="fa fa-linkedin">&nbsp;</i> <span>YouTube </span></a></li>
+<li><a href="#"><i class="fa fa-pinterest">&nbsp;</i> <span>Pinterest </span></a></li>
+<li><a href="https://plus.google.com/venustheme"> <i class="fa fa-google">&nbsp; </i> <span> Google+ </span> </a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
